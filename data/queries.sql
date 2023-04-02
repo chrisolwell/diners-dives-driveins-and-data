@@ -1,10 +1,10 @@
 -- creating tables for dives, diners, driveins and data
 
 CREATE TABLE yelp (
-	restaurant VARCHAR NOT NULL,
 	season VARCHAR NOT NULL,
 	episode VARCHAR NOT NULL,
 	title VARCHAR,
+	restaurant VARCHAR NOT NULL,
 	rating VARCHAR,
 	price VARCHAR,
 	city VARCHAR,
@@ -12,10 +12,10 @@ CREATE TABLE yelp (
 );
 
 CREATE TABLE coordinates (
-	restaurant VARCHAR NOT NULL,
 	season VARCHAR NOT NULL,
 	episode VARCHAR NOT NULL,
 	title VARCHAR,
+	restaurant VARCHAR NOT NULL,
 	location VARCHAR,
 	air_date VARCHAR,
 	latitude VARCHAR,
@@ -24,4 +24,4 @@ CREATE TABLE coordinates (
 
 SELECT * FROM yelp;
 
-DROP TABLE coordinates;
+DROP TABLE yelp;

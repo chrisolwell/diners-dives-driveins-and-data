@@ -4,10 +4,10 @@
 
 df_yelp
 -
-restaurant PK VARCHAR
 season INT
 episode Int 
 title string
+restaurant PK VARCHAR
 rating VARCHAR
 price VARCHAR
 city string
@@ -15,11 +15,13 @@ state string
 
 df_coordinates  
 -
-restaurant PK VARCHAR
 season INT
 episode Int 
 title string
+restaurant PK VARCHAR
 location string
 air_date VARCHAR
 latitude VARCHAR
 longitude VARCHAR
+
+
