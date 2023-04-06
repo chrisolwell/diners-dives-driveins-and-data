@@ -34,6 +34,9 @@ SELECT * FROM yelp;
 -- SELECT yelp.restaurant, yelp.rating, yelp.price
 --SELECT yelp.season, yelp.episode, yelp.title, yelp.restaurant, yelp.rating, yelp.price
 SELECT coordinates.season, coordinates.episode, coordinates.title, coordinates.restaurant, coordinates.latitude, coordinates.longitude, yelp.rating, yelp.price, yelp.state
+INTO map_db
 FROM coordinates
 INNER JOIN yelp
 ON yelp.restaurant = coordinates.restaurant;
+
+SELECT * FROM map_db;
