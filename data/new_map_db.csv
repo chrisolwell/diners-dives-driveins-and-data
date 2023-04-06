@@ -1,0 +1,1434 @@
+season,episode,title,restaurant,air_date,latitude,longitude,rating,price,state
+1,1,Classics,Mac & Ernie's Roadside Eatery,2007-04-23,29.6571703,-99.2764299,4.0,$$,Texas
+1,1,Classics,Brint's Diner,2007-04-23,37.6922361,-97.3375448,3.5,$,Kansas
+1,1,Classics,The Mad Greek Cafe,2007-04-23,35.0421963,-117.6675604,3.0,$$,California
+1,2,That's Italian,Pizza Palace,2007-04-30,35.9603948,-83.9210261,4.0,$,Tennessee
+1,2,That's Italian,Hullabaloo Diner,2007-04-30,30.5352024,-96.3016282,3.5,$$,Texas
+1,2,That's Italian,Four Kegs Sports Pub,2007-04-30,36.1672559,-115.1485163,4.0,$$,Nevada
+1,3,Blue Plate Special,Patrick's Roadhouse,2007-05-07,34.0250724,-118.4965129,3.5,$$,California
+1,3,Blue Plate Special,Frosted Mug,2007-05-07,41.6689223,-87.7386619,,,Illinois
+1,3,Blue Plate Special,The Penguin,2007-05-07,35.2270869,-80.8431268,,,North Carolina
+1,4,Breakfast,Frank's Diner,2007-05-21,42.5846773,-87.8212263,4.0,$,Wisconsin
+1,4,Breakfast,Gaffey Street Diner,2007-05-21,33.7358518,-118.2922934,,,California
+1,4,Breakfast,The Coffee Cup,2007-05-21,35.9787638,-114.8337739,4.5,$$,Nevada
+1,5,BBQ,Baby Blues BBQ,2007-05-28,33.995044,-118.4668875,4.0,$$,California
+1,5,BBQ,Louie Mueller BBQ,2007-05-28,32.2793121,-99.8812612,4.0,$$,Texas
+1,5,BBQ,Barbecue King Drive-In,2007-05-28,35.2270869,-80.8431268,,,North Carolina
+1,6,Local Legends,Eveready Diner,2007-06-04,41.7847232,-73.9332461,3.5,$$,New York
+1,6,Local Legends,Leo's BBQ,2007-06-04,35.4729886,-97.5170536,4.0,$$,Oklahoma
+1,6,Local Legends,A1 Diner,2007-06-04,44.230441,-69.775543,4.0,$$,Maine
+1,7,Burgers,Triple XXX Restaurant,2007-06-11,40.4258686,-86.9080655,4.0,$$,Indiana
+1,7,Burgers,Hackney's,2007-06-11,42.0700662,-87.8114044,,,Illinois
+1,7,Burgers,Squeeze Inn,2007-06-11,38.5815719,-121.4943996,3.5,$$,California
+1,8,House Specials,Red Arrow Diner,2007-06-18,42.9956397,-71.4547891,4.0,$,New Hampshire
+1,8,House Specials,Hank's Creekside Restaurant,2007-06-18,38.4404925,-122.7141049,4.0,$$,California
+1,8,House Specials,Voula's Offshore Café,2007-06-18,47.6038321,-122.3300624,4.0,$$,Washington
+1,9,Retro,South Side Soda Shop and Diner,2007-07-09,41.5824086,-85.834366,4.0,$$,Indiana
+1,9,Retro,Taylor's Automatic Refresher,2007-07-09,38.5052288,-122.4700424,5.0,,California
+1,9,Retro,Byways Café,2007-07-09,45.5202471,-122.6741949,4.0,$$,Oregon
+1,10,Worth the Trip,Big Star Diner,2007-07-16,47.6262725,-122.5209287,,,Washington
+1,10,Worth the Trip,Harold's Café,2007-07-16,35.0717945,-81.6498195,,,South Carolina
+1,10,Worth the Trip,Mo Gridder's BBQ,2007-07-16,40.8466508,-73.8785937,,,New York
+1,11,Diners A-Plenty,Kelly's Diner,2007-07-23,42.3875968,-71.0994968,4.0,$,Massachusetts
+1,11,Diners A-Plenty,Bay Way Diner,2007-07-23,40.6220478,-74.2445902,,,New Jersey
+1,11,Diners A-Plenty,Bay Way Diner,2007-07-23,40.6220478,-74.2445902,,,New Jersey
+1,11,Diners A-Plenty,Beacon Drive-In,2007-07-23,34.9498007,-81.9320157,3.0,$,South Carolina
+1,12,American Cookin' ,Rosie's Diner,2007-07-30,43.119721,-85.559604,,,Michigan
+1,12,American Cookin' ,Dari-ette Drive-In,2007-07-30,44.9504037,-93.1015026,3.5,$,Minnesota
+1,12,American Cookin' ,The Russian River Pub,2007-07-30,38.4833405,-122.86158427486583,4.0,$$,California
+1,12,American Cookin' ,Al's Breakfast,2007-07-30,44.9772995,-93.2654692,4.0,$$,Minnesota
+1,12,American Cookin' ,Al's Breakfast,2007-07-30,44.9772995,-93.2654692,4.0,$$,Minnesota
+1,12,American Cookin' ,Al's Breakfast,2007-07-30,44.9772995,-93.2654692,4.0,$$,Minnesota
+2,1,Totally Fried,Falafel's Drive-In,2007-10-01,37.3361905,-121.8905833,4.0,$,California
+2,1,Totally Fried,Ramona Café,2007-10-01,33.0417112,-116.8680821,3.0,$$,California
+2,1,Totally Fried,Silk City Diner,2007-10-01,39.9527237,-75.1635262,4.0,$$,Pennsylvania
+2,2,Route 66,Emma Jean's Holland Burger Café,2007-10-08,34.5361067,-117.2911565,4.5,$,California
+2,2,Route 66,The Rock Café,2007-10-08,35.7477749,-96.6566742,4.0,$,Oklahoma
+2,2,Route 66,Café on the Route,2007-10-08,37.0236759,-94.7355042,4.0,,Kansas
+2,3,Seaside Eats,Evelyn's Drive-In,2007-10-15,41.6257406,-71.166333,3.0,$$,Rhode Island
+2,3,Seaside Eats,Hodad's,2007-10-15,32.7448067,-117.2476067,4.0,$$,California
+2,3,Seaside Eats,Hodad's,2007-10-15,32.7448067,-117.2476067,4.0,$$,California
+2,3,Seaside Eats,Keegan's Seafood Grille,2007-10-15,27.891338,-82.84518880012078,4.0,$$,Florida
+2,4,Local Flavors,Clanton's Café,2007-10-22,36.6387949,-95.1543297,4.0,$,Oklahoma
+2,4,Local Flavors,Mike's Chili Parlor,2007-10-22,47.6038321,-122.3300624,3.5,$,Washington
+2,4,Local Flavors,Duarte's Tavern,2007-10-22,23.369259,-110.172503,3.5,$$,California
+2,5,Viewer's Choice,Bobby's Hawaiian Style Restaurant,2007-10-29,47.9673056,-122.2013998,4.0,$$,Washington
+2,5,Viewer's Choice,Ted Peters Famous Smoked Fish,2007-10-29,27.7550276,-82.7376009,4.0,$$,Florida
+2,5,Viewer's Choice,Psycho Suzie's Motor Lounge,2007-10-29,44.9772995,-93.2654692,3.5,$$,Minnesota
+2,6,Real Deal BBQ,Jay Bee's Bar-B-Que,2007-11-05,33.8963593,-118.3053037,3.5,$$,California
+2,6,Real Deal BBQ,Smoque,2007-11-05,41.8755616,-87.6244212,4.5,$$,Illinois
+2,6,Real Deal BBQ,BBQ Shack,2007-11-05,38.5723318,-94.8786484,,,Kansas
+2,6,Real Deal BBQ,BBQ Shack,2007-11-05,38.5723318,-94.8786484,,,Kansas
+2,7,Talkin' Turkey,Mike's City Diner,2007-11-10,42.3602534,-71.0582912,4.0,$$,Massachusetts
+2,7,Talkin' Turkey,Mike's City Diner,2007-11-10,42.3602534,-71.0582912,4.0,$$,Massachusetts
+2,7,Talkin' Turkey,Willie Bird's Restaurant,2007-11-10,38.4404925,-122.7141049,3.5,$$,California
+2,7,Talkin' Turkey,Alpine Steakhouse,2007-11-10,27.3364347,-82.5306527,3.5,$$,Florida
+2,7,Talkin' Turkey,Alpine Steakhouse,2007-11-10,27.3364347,-82.5306527,3.5,$$,Florida
+2,8,One of a Kind,JT Farnham's Seafood & Grill,2007-11-19,42.6320389,-70.7828255,,,Massachusetts
+2,8,One of a Kind,Joe's Gizzard City,2007-11-19,42.629203,-84.738874,3.5,$$,Michigan
+2,8,One of a Kind,Grubstake Diner,2007-11-19,37.7790262,-122.4199061,3.5,$$,California
+2,8,One of a Kind,Los Tapatios,2007-11-19,37.3361905,-121.8905833,,,California
+2,9,Family Owned,El Indio,2007-11-23,32.7174209,-117.1627714,,,California
+2,9,Family Owned,Charlie's Diner,2007-11-23,42.2482063,-71.9938312,3.0,$$,Massachusetts
+2,9,Family Owned,Paradise Pup,2007-11-23,42.0415823,-87.8873916,4.5,$,Illinois
+2,10,Open 24/7,Studio Diner,2008-01-13,32.7174209,-117.1627714,3.5,$$,California
+2,10,Open 24/7,White Palace Grill,2008-01-13,41.8755616,-87.6244212,3.5,$$,Illinois
+2,10,Open 24/7,The Dining Car,2008-01-13,39.9527237,-75.1635262,3.5,$$,Pennsylvania
+2,11,Off the Hook Specials,Schooner or Later,2008-01-20,33.7690164,-118.1916048,3.5,$$,California
+2,11,Off the Hook Specials,Schooner or Later,2008-01-20,33.7690164,-118.1916048,3.5,$$,California
+2,11,Off the Hook Specials,Grinders Pizza,2008-01-20,39.100105,-94.5781416,4.0,$$,Missouri
+2,11,Off the Hook Specials,The Fly Trap,2008-01-20,42.4605917,-83.1346478,4.0,$$,Michigan
+2,11,Off the Hook Specials,Galewood Cook Shack,2008-01-20,41.8755616,-87.6244212,,,Illinois
+2,12,"Burgers, Rings and Fries",Joe's Cable Car,2008-01-21,37.7790262,-122.4199061,,,California
+2,12,"Burgers, Rings and Fries",The Nook,2008-01-21,44.9504037,-93.1015026,,,Minnesota
+2,12,"Burgers, Rings and Fries",Krazy Jim's Blimpy Burger,2008-01-21,42.2681569,-83.7312291,3.5,$,Michigan
+2,13,The New Jersey Diner Tour,Mustache Bill's,2008-01-28,39.7576202,-74.1062466,4.0,$$,New Jersey
+2,13,The New Jersey Diner Tour,Mustache Bill's,2008-01-28,39.7576202,-74.1062466,4.0,$$,New Jersey
+2,13,The New Jersey Diner Tour,Tick Tock Diner,2008-01-28,40.8584328,-74.1637553,2.5,$$,New Jersey
+2,13,The New Jersey Diner Tour,White Manna Hamburgers,2008-01-28,40.8871438,-74.0410865,,,New Jersey
+2,13,The New Jersey Diner Tour,The Ritz Diner,2008-01-28,40.7959335,-74.3148713,2.5,$$,New Jersey
+2,13,The New Jersey Diner Tour,Hightstown Diner,2008-01-28,40.2695538,-74.5232089,3.0,$,New Jersey
+2,13,The New Jersey Diner Tour,Skylark Diner,2008-01-28,40.5382375,-74.39451734508772,3.5,$$,New Jersey
+2,13,The New Jersey Diner Tour,Jefferson Diner,2008-01-28,40.904011,-74.665452,3.0,$$,New Jersey
+3,1,Big Breakfast,Brownstone Diner,2008-03-10,40.7281575,-74.0776417,,,New Jersey
+3,1,Big Breakfast,39th Street Mama's,2008-03-10,39.100105,-94.5781416,,,Missouri
+3,1,Big Breakfast,Matt's Big Breakfast,2008-03-10,33.4484367,-112.0741417,4.0,$$,Arizona
+3,1,Big Breakfast,Matt's Big Breakfast,2008-03-10,33.4484367,-112.0741417,4.0,$$,Arizona
+3,2,Like Mama Made,Roberto's Mexican Food,2008-03-17,33.4484367,-112.0741417,,,Arizona
+3,2,Like Mama Made,Smokey Valley Truck Stop,2008-03-17,38.3000809,-83.1740654,,,Kentucky
+3,2,Like Mama Made,Sweetie Pie's,2008-03-17,38.6529545,-90.24111656024635,,,Missouri
+3,2,Like Mama Made,Sweetie Pie's,2008-03-17,38.6529545,-90.24111656024635,,,Missouri
+3,3,Regional Favorites,Charlie Parker's,2008-03-24,39.7990175,-89.6439575,4.0,$,Illinois
+3,3,Regional Favorites,Tecolote Café,2008-03-24,35.6869996,-105.9377997,4.0,$$,New Mexico
+3,3,Regional Favorites,Virginia Diner,2008-03-24,36.9682101,-76.9896882,3.0,$$,Virginia
+3,4,Neighborhood Joints,Thee Pitts Again,2008-03-31,37.8115318,-107.6643647,3.0,$$,Arizona
+3,4,Neighborhood Joints,Thee Pitts Again,2008-03-31,37.8115318,-107.6643647,4.0,$$,Colorado
+3,4,Neighborhood Joints,Iron Barley,2008-03-31,38.6529545,-90.24111656024635,,,Missouri
+3,4,Neighborhood Joints,Daddypops,2008-03-31,40.1746252,-75.106825,4.0,$,Pennsylvania
+3,4,Neighborhood Joints,The Village Café,2008-03-31,37.5385087,-77.43428,3.5,$$,Virginia
+3,5,A World of Flavors,Chino Bandido,2008-04-07,33.4484367,-112.0741417,4.0,$,Arizona
+3,5,A World of Flavors,Marietta Diner,2008-04-07,33.9528472,-84.5496148,3.5,$$,Georgia
+3,5,A World of Flavors,YJ's Snack Bar,2008-04-07,39.100105,-94.5781416,4.0,,Missouri
+3,6,Something Different,Scully's Tavern,2008-04-14,25.7742658,-80.1936589,4.0,$$,Florida
+3,6,Something Different,Scully's Tavern,2008-04-14,25.7742658,-80.1936589,4.0,$$,Florida
+3,6,Something Different,Dot's Back Inn,2008-04-14,37.5385087,-77.43428,4.0,$$,Virginia
+3,6,Something Different,Hillbilly Hot Dogs,2008-04-14,38.5064731,-82.2984823,4.5,$$,West Virginia
+3,6,Something Different,Hillbilly Hot Dogs,2008-04-14,38.5064731,-82.2984823,4.5,$$,West Virginia
+3,7,American Classics,11th Street Diner,2008-05-18,25.7929198,-80.1353006,3.5,$$,Florida
+3,7,American Classics,Bobo Drive-In,2008-05-18,39.049011,-95.677556,4.0,$,Kansas
+3,7,American Classics,Little Tea Shop,2008-05-18,35.1490215,-90.0516285,4.5,$,Tennessee
+3,8,Real Deal Fast Food,Panini Pete's,2008-05-19,30.507956,-87.89742922432941,4.5,$,Alabama
+3,8,Real Deal Fast Food,Joe's Farm Grill,2008-05-19,33.3527632,-111.7890373,4.0,$$,Arizona
+3,8,Real Deal Fast Food,Maria's Taco Express,2008-05-19,30.2711286,-97.7436995,4.0,$,Texas
+3,8,Real Deal Fast Food,Maria's Taco Express,2008-05-19,30.2711286,-97.7436995,4.0,$,Texas
+3,9,The Memphis BBQ Tour,Cozy Corner,2008-05-26,35.1490215,-90.0516285,,,Tennessee
+3,9,The Memphis BBQ Tour,Leonard's BBQ,2008-05-26,35.1490215,-90.0516285,,,Tennessee
+3,9,The Memphis BBQ Tour,Marlowe's Ribs,2008-05-26,35.1490215,-90.0516285,,,Tennessee
+3,9,The Memphis BBQ Tour,Tom's Bar-B-Q,2008-05-26,35.1490215,-90.0516285,4.0,$$,Tennessee
+3,9,The Memphis BBQ Tour,Tom's Bar-B-Q,2008-05-26,35.1490215,-90.0516285,4.0,$$,Tennessee
+3,10,Comfort Food,Grampa's Bakery & Restaurant,2008-06-15,26.050783950000003,-80.14612392627231,3.5,$$,Florida
+3,10,Comfort Food,Grampa's Bakery & Restaurant,2008-06-15,26.050783950000003,-80.14612392627231,3.5,$$,Florida
+3,10,Comfort Food,Blue Moon Café,2008-06-15,39.2908816,-76.610759,4.0,$$,Maryland
+3,10,Comfort Food,Central City Cafe,2008-06-15,38.4192496,-82.445154,4.0,$,West Virginia
+3,10,Comfort Food,Tip Top Café,2008-06-15,29.4246002,-98.4951405,3.0,$$,Texas
+3,11,Where The Locals Go,Matthews Cafeteria,2008-06-23,33.8532701,-84.2200729,4.0,$,Georgia
+3,11,Where The Locals Go,The Rivershack Tavern,2008-06-23,29.8502657,-90.1293894,4.0,$$,Louisiana
+3,11,Where The Locals Go,Monte Carlo Steak House,2008-06-23,35.0841034,-106.6509851,4.0,$$,New Mexico
+3,11,Where The Locals Go,Monte Carlo Steak House,2008-06-23,35.0841034,-106.6509851,4.0,$$,New Mexico
+3,12,All Kinds of BBQ,The Joint,2008-06-30,29.9499323,-90.0701156,4.5,$$,Louisiana
+3,12,All Kinds of BBQ,The Joint,2008-06-30,29.9499323,-90.0701156,4.5,$$,Louisiana
+3,12,All Kinds of BBQ,The Shed,2008-06-30,30.4112904,-88.8279165,,,Mississippi
+3,12,All Kinds of BBQ,Texas Pride BBQ,2008-06-30,29.3930129,-98.2372329,3.5,$$,Texas
+3,13,In the Family,Benny's Seafood Restaurant,2008-07-07,25.707846699999997,-80.29563567682854,,,Florida
+3,13,In the Family,Chaps Pit Beef,2008-07-07,39.2908816,-76.610759,4.5,$,Maryland
+3,13,In the Family,Chaps Pit Beef,2008-07-07,39.2908816,-76.610759,4.5,$,Maryland
+3,13,In the Family,Burger Bar,2008-07-07,41.1617999,-112.0261903,4.0,$,Utah
+4,1,Brain Freeze,Doumar's,2008-07-14,36.8462923,-76.2929252,,,Virginia
+4,1,Brain Freeze,Aunt Lena's Creamery,2008-07-14,33.3062223,-111.8413317,,,Arizona
+4,1,Brain Freeze,The Creole Creamery,2008-07-14,29.9499323,-90.0701156,4.5,$,Louisiana
+4,1,Brain Freeze,The Creole Creamery,2008-07-14,29.9499323,-90.0701156,4.5,$,Louisiana
+4,2,Diners You Sent Me To,Town Talk Diner,2008-07-21,44.9772995,-93.2654692,4.5,$$,Minnesota
+4,2,Diners You Sent Me To,Blue Plate Diner,2008-07-21,40.7596198,-111.8867975,3.5,$$,Utah
+4,2,Diners You Sent Me To,Broadway Diner,2008-07-21,39.2908816,-76.610759,4.0,$$,Maryland
+4,3,Bar Food,The Highlander,2008-07-28,33.7490987,-84.3901849,3.5,$$,Georgia
+4,3,Bar Food,The Highlander,2008-07-28,33.7490987,-84.3901849,3.5,$$,Georgia
+4,3,Bar Food,Gumbo Shack,2008-07-28,30.507956,-87.89742922432941,,,Alabama
+4,3,Bar Food,Starlite Lounge,2008-07-28,40.4934017,-79.8606053,3.5,$,Pennsylvania
+4,4,Burgers and Dogs,The Wienery,2008-08-04,44.9772995,-93.2654692,4.0,$,Minnesota
+4,4,Burgers and Dogs,Casino El Camino,2008-08-04,30.2711286,-97.7436995,3.5,$$,Texas
+4,4,Burgers and Dogs,G&A Restaurant,2008-08-04,39.2908816,-76.610759,4.0,$,Maryland
+4,5,Where the Locals Eat,Uncle Lou's,2008-08-11,35.1490215,-90.0516285,,,Tennessee
+4,5,Where the Locals Eat,Uncle Lou's,2008-08-11,35.1490215,-90.0516285,,,Tennessee
+4,5,Where the Locals Eat,Captain Chuck A Mucks,2008-08-11,36.9959815,-76.5605083,,,Virginia
+4,5,Where the Locals Eat,Dixie Quicks,2008-08-11,41.2587459,-95.9383758,,,Nebraska
+4,6,Totally Unexpected,Cabbage Town Market,2008-08-18,33.7490987,-84.3901849,,,Georgia
+4,6,Totally Unexpected,The Cove,2008-08-18,29.4246002,-98.4951405,4.0,$$,Texas
+4,6,Totally Unexpected,Bryant-Lake Bowl,2008-08-18,44.9772995,-93.2654692,3.5,$$,Minnesota
+4,7,A Taste of Everywhere,Jamaica Kitchen,2008-09-15,25.70633095,-80.4068717788021,4.0,$$,Florida
+4,7,A Taste of Everywhere,Crystal Restaurant,2008-09-15,40.4416941,-79.9900861,,,Pennsylvania
+4,7,A Taste of Everywhere,Red Iguana,2008-09-15,40.7596198,-111.8867975,4.5,$$,Utah
+4,8,Better Than Ever,Colonnade,2008-09-22,33.7490987,-84.3901849,,,Georgia
+4,8,Better Than Ever,Manci's Antique Club,2008-09-22,30.6035255,-87.9036047,3.5,$$,Alabama
+4,8,Better Than Ever,Amato's,2008-09-22,41.2587459,-95.9383758,3.5,$,Nebraska
+4,9,Big Flavor,Darwell's Café,2008-09-29,30.3504751,-89.1528176,4.5,$$,Mississippi
+4,9,Big Flavor,Brick Oven Pizza,2008-09-29,39.2908816,-76.610759,3.0,$,Maryland
+4,9,Big Flavor,Victor's 1959 Café,2008-09-29,44.9772995,-93.2654692,4.0,$$,Minnesota
+4,10,Cookin' It Old School,Nadine's Restaurant,2008-10-06,40.4416941,-79.9900861,,,Pennsylvania
+4,10,Cookin' It Old School,Nadine's Restaurant,2008-10-06,40.4416941,-79.9900861,,,Pennsylvania
+4,10,Cookin' It Old School,Casamento's Restaurant,2008-10-06,29.9499323,-90.0701156,4.0,$$,Louisiana
+4,10,Cookin' It Old School,Big Mama's Kitchen & Catering,2008-10-06,41.2587459,-95.9383758,4.0,$$,Nebraska
+4,11,Grabbin'a Sandwich,Moochie's Meatballs & More,2008-10-13,40.7596198,-111.8867975,4.0,$$,Utah
+4,11,Grabbin'a Sandwich,Cemitas Puebla,2008-10-13,41.8755616,-87.6244212,3.5,$$,Illinois
+4,11,Grabbin'a Sandwich,Tioli's Crazee Burger,2008-10-13,32.7174209,-117.1627714,,,California
+4,12,Traditional Dishes,Donatelli's,2008-11-03,45.0838098,-93.0069304,4.0,$$,Minnesota
+4,12,Traditional Dishes,Stoney Creek Inn,2008-11-03,39.2908816,-76.610759,4.0,$$,Maryland
+4,12,Traditional Dishes,Alcenia's,2008-11-03,35.1490215,-90.0516285,,,Tennessee
+4,13,Doin' Their Own Thing,Lone Star Taqueria,2008-11-10,40.7596198,-111.8867975,4.0,$,Utah
+4,13,Doin' Their Own Thing,Modern Café,2008-11-10,44.9772995,-93.2654692,4.0,$,Minnesota
+4,13,Doin' Their Own Thing,Brewburger's,2008-11-10,41.2587459,-95.9383758,,,Nebraska
+5,1,What's For Breakfast,Surrey's Café,2008-11-10,29.9499323,-90.0701156,,,Louisiana
+5,1,What's For Breakfast,Harry's Roadhouse,2008-11-10,35.6869996,-105.9377997,4.0,$$,New Mexico
+5,1,What's For Breakfast,Dor-Stop Restaurant,2008-11-10,40.4416941,-79.9900861,4.0,$,Pennsylvania
+5,2,Real Deal Italian,LoBello's Spaghetti House,2008-11-17,40.5184013,-80.1667247,,,Pennsylvania
+5,2,Real Deal Italian,Di Pasquale's,2008-11-17,39.2908816,-76.610759,,,Maryland
+5,2,Real Deal Italian,Pizzeria Luigi,2008-11-17,32.7174209,-117.1627714,4.0,$$,California
+5,2,Real Deal Italian,Pizzeria Luigi,2008-11-17,32.7174209,-117.1627714,4.0,$$,California
+5,3,Not What You'd Expect,Sophia's Place,2008-11-24,35.0841034,-106.6509851,,,New Mexico
+5,3,Not What You'd Expect,Magnolia Café,2008-11-24,30.2711286,-97.7436995,3.5,$$,Texas
+5,3,Not What You'd Expect,Glenn's Diner,2008-11-24,41.8755616,-87.6244212,4.0,$$,Illinois
+5,4,Places You Sent Me,Ruth's Diner,2008-12-01,40.7596198,-111.8867975,4.0,$$,Utah
+5,4,Places You Sent Me,Ruth's Diner,2008-12-01,40.7596198,-111.8867975,4.0,$$,Utah
+5,4,Places You Sent Me,O'Rourke's Diner,2008-12-01,41.5623178,-72.6509061,4.0,$$,Connecticut
+5,4,Places You Sent Me,Parasol's,2008-12-01,29.9499323,-90.0701156,,,Louisiana
+5,5,Long Time Legends,Tommy's Joynt,2009-01-05,37.7790262,-122.4199061,4.0,$$,California
+5,5,Long Time Legends,Tommy's Joynt,2009-01-05,37.7790262,-122.4199061,4.0,$$,California
+5,5,Long Time Legends,Joe Tess Place,2009-01-05,41.2587459,-95.9383758,3.0,$$,Nebraska
+5,5,Long Time Legends,Big Jim's,2009-01-05,40.4416941,-79.9900861,,,Pennsylvania
+5,6,Something from Everywhere,Valencia Luncheria,2009-01-12,41.1175966,-73.4078968,4.0,$$,Connecticut
+5,6,Something from Everywhere,Valencia Luncheria,2009-01-12,41.1175966,-73.4078968,4.0,$$,Connecticut
+5,6,Something from Everywhere,The Original Vito & Nick's Pizzeria,2009-01-12,41.8755616,-87.6244212,4.0,$$,Illinois
+5,6,Something from Everywhere,Emily's Lebanese Delicatessen,2009-01-12,44.9772995,-93.2654692,4.0,$$,Minnesota
+5,7,Neighborhood Favorites,Pat's BBQ,2009-01-19,40.7596198,-111.8867975,3.5,$$,Utah
+5,7,Neighborhood Favorites,Blow Fly Inn,2009-01-19,30.3674198,-89.0928155,3.0,$$,Mississippi
+5,7,Neighborhood Favorites,Tune-Up Café,2009-01-19,35.6869996,-105.9377997,4.5,$$,New Mexico
+5,8,Just Like Yesterday,Hob Nob Hill,2009-01-26,32.7174209,-117.1627714,4.0,$$,California
+5,8,Just Like Yesterday,The Silver Skillet,2009-01-26,33.7490987,-84.3901849,3.5,$$,Georgia
+5,8,Just Like Yesterday,Tufano's Vernon Park Tap,2009-01-26,41.8755616,-87.6244212,4.0,$$,Illinois
+5,9,Return to Route 66,Standard Diner,2009-02-02,35.0841034,-106.6509851,4.0,$$,New Mexico
+5,9,Return to Route 66,Dell Rhea's Chicken Basket,2009-02-02,41.7697533,-87.9358931,3.5,$$,Illinois
+5,9,Return to Route 66,Salsa Brava,2009-02-02,35.1987522,-111.6518229,4.0,$$,Arizona
+5,10,BBQ & More,Green Mesquite,2009-02-09,30.2711286,-97.7436995,3.5,$$,Texas
+5,10,BBQ & More,Gorilla BBQ,2009-02-09,37.6138253,-122.4869194,4.0,$$,California
+5,10,BBQ & More,Wilson's Holy Smoke BBQ,2009-02-09,41.2943069,-73.37486,,,Connecticut
+5,11,Regional Classics,Cecilia's Café,2009-02-16,35.0841034,-106.6509851,4.0,$,New Mexico
+5,11,Regional Classics,Joey K's Restaurant & Bar,2009-02-16,29.9499323,-90.0701156,4.0,$$,Louisiana
+5,11,Regional Classics,Joey K's Restaurant & Bar,2009-02-16,29.9499323,-90.0701156,4.0,$$,Louisiana
+5,11,Regional Classics,Kelly O's Diner,2009-02-16,40.4416941,-79.9900861,4.0,$$,Pennsylvania
+5,11,Regional Classics,Kelly O's Diner,2009-02-16,40.4416941,-79.9900861,4.0,$$,Pennsylvania
+5,12,All Kinds of Fast Food,Super Duper Weenie,2009-03-16,41.2943069,-73.37486,4.0,$,Connecticut
+5,12,All Kinds of Fast Food,California Tacos,2009-03-16,41.2587459,-95.9383758,3.5,$,Nebraska
+5,12,All Kinds of Fast Food,Bert's Burger Bowl,2009-03-16,35.6869996,-105.9377997,,,New Mexico
+5,13,Family Favorites,Giusti's,2009-03-23,38.250307500000005,-121.50477362611842,4.0,$$,California
+5,13,Family Favorites,Haus Murphy's,2009-03-23,33.5386858,-112.1859941,4.0,$$,Arizona
+5,13,Family Favorites,Haus Murphy's,2009-03-23,33.5386858,-112.1859941,4.0,$$,Arizona
+5,13,Family Favorites,Louie's,2009-03-23,32.7762719,-96.7968559,3.5,$$,Texas
+6,1,Funky Joints,Bizzaro Café,2009-04-06,47.6038321,-122.3300624,,,Washington
+6,1,Funky Joints,Chef Point Café,2009-04-06,32.8579056,-97.2547371,,,Texas
+6,1,Funky Joints,Jamie's Bar & Grill,2009-04-06,38.5815719,-121.4943996,4.0,$$,California
+6,2,Their Own Way,Bluewater Seafood Market & Grill,2009-04-13,32.7174209,-117.1627714,4.0,$$,California
+6,2,Their Own Way,Brandy's Restaurant & Bakery,2009-04-13,35.1987522,-111.6518229,4.0,$$,Arizona
+6,2,Their Own Way,Kuma's Corner,2009-04-13,41.8755616,-87.6244212,4.0,$$,Illinois
+6,3,A Little Bit of Everywhere,Bar Gernika,2009-04-20,43.6166163,-116.200886,4.5,$$,Idaho
+6,3,A Little Bit of Everywhere,Bar Gernika,2009-04-20,43.6166163,-116.200886,4.5,$$,Idaho
+6,3,A Little Bit of Everywhere,Café Rolle,2009-04-20,38.5815719,-121.4943996,4.5,$$,California
+6,3,A Little Bit of Everywhere,Havana Hideout,2009-04-20,26.615891,-80.0691435,,,Florida
+6,4,"A Burger, A Bowl and a Slice",La Piazza Al Forno,2009-04-27,33.5386858,-112.1859941,4.0,$$,Arizona
+6,4,"A Burger, A Bowl and a Slice",Slim's Last Chance Chili Shack & Watering Hole,2009-04-27,47.6038321,-122.3300624,,,Washington
+6,4,"A Burger, A Bowl and a Slice",Twisted Root Beer Co.,2009-04-27,32.7762719,-96.7968559,,,Texas
+6,5,"Biscuits, Bagels and BLTs","Arleta Library, Bakery & Café",2009-05-04,45.5202471,-122.6741949,4.0,$$,Oregon
+6,5,"Biscuits, Bagels and BLTs",Bubba's Diner,2009-05-04,37.9744323,-122.5615032,,,California
+6,5,"Biscuits, Bagels and BLTs",Flakowitz of Boynton Bakery & Deli Restaurant,2009-05-04,26.5256179,-80.0666026,,,Florida
+6,6,Who'Da Thunk It,Backroad Pizza,2009-05-11,35.6869996,-105.9377997,3.5,$$,New Mexico
+6,6,Who'Da Thunk It,Jamaica Gates Caribbean Cuisine,2009-05-11,32.701938999999996,-97.10562379033699,,,Texas
+6,6,Who'Da Thunk It,Chef Lou's Westside Drive-In,2009-05-11,43.6166163,-116.200886,3.5,$,Idaho
+6,6,Who'Da Thunk It,Chef Lou's Westside Drive-In,2009-05-11,43.6166163,-116.200886,3.5,$,Idaho
+6,7,Go-To Joints,Black Duck Café,2009-05-25,41.1414855,-73.3578955,3.0,$,Connecticut
+6,7,Go-To Joints,Otto's Sausage Kitchen & Meat Market,2009-05-25,45.5202471,-122.6741949,4.5,$,Oregon
+6,7,Go-To Joints,Sol Food Puerto Rican Cuisine,2009-05-25,37.9735346,-122.5310874,,,California
+6,8,Homestyle,Giuseppe's Restaurant,2009-06-01,33.4484367,-112.0741417,,,Arizona
+6,8,Homestyle,Southern Kitchen Restaurant,2009-06-01,47.2495798,-122.4398746,4.0,$$,Washington
+6,8,Homestyle,Zia Diner & Angel Food Catering,2009-06-01,35.6869996,-105.9377997,,,New Mexico
+6,9,All Kinds of Classics,Blue Marlin Fish House Restaurant,2009-06-08,25.9331488,-80.1625463,,,Florida
+6,9,All Kinds of Classics,Fred's Texas Café,2009-06-08,32.753177,-97.3327459,4.0,$$,Texas
+6,9,All Kinds of Classics,Pine State Biscuits,2009-06-08,45.5202471,-122.6741949,4.5,$,Oregon
+6,9,All Kinds of Classics,Pine State Biscuits,2009-06-08,45.5202471,-122.6741949,4.5,$,Oregon
+6,10,All Over The Map,Georgia Greek Restaurant & Deli,2009-06-15,47.6038321,-122.3300624,3.5,$$,Washington
+6,10,All Over The Map,Los Tacquitos Grill,2009-06-15,33.4484367,-112.0741417,,,Arizona
+6,10,All Over The Map,Rocco's Café,2009-06-15,37.7790262,-122.4199061,4.0,$$,California
+6,11,Old Time Favorites,Blueplate Lunch Counter & Soda Fountain,2009-06-22,45.5202471,-122.6741949,,,Oregon
+6,11,Old Time Favorites,Don's Hilltop Kodiak Grill,2009-06-22,43.6166163,-116.200886,,,Idaho
+6,11,Old Time Favorites,La Camoronera Restaurant & Fish Market,2009-06-22,25.7742658,-80.1936589,4.0,$$,Florida
+6,12,Comfort Cookin',Dottie's True Blue Café,2009-06-29,37.7790262,-122.4199061,4.0,$$,California
+6,12,Comfort Cookin',Over Easy,2009-06-29,33.4484367,-112.0741417,,,Arizona
+6,12,Comfort Cookin',Comet Café,2009-06-29,43.0349931,-87.922497,4.0,$$,Wisconsin
+6,13,Mama's Cookin',Polka Restaurant & Catering,2009-07-27,34.0536909,-118.2427666,,,California
+6,13,Mama's Cookin',Avila's Café,2009-07-27,32.7762719,-96.7968559,,,Texas
+6,13,Mama's Cookin',Mama E's,2009-07-27,35.4729886,-97.5170536,,,Oklahoma
+7,1,Upper Crust,Bunk Sandwiches,2009-08-03,45.5202471,-122.6741949,,,Oregon
+7,1,Upper Crust,Sonny's Famous Steak Hogies,2009-08-03,26.0112014,-80.1494901,4.0,$,Florida
+7,1,Upper Crust,The Depot American Diner,2009-08-03,41.8755616,-87.6244212,,,Illinois
+7,2,"Burgers, Tacos & Dogs",Lankford Grocery,2009-08-10,29.7589382,-95.3676974,4.0,$,Texas
+7,2,"Burgers, Tacos & Dogs",Fab Hot Dogs,2009-08-10,34.2000784,-118.5369884,4.0,$,California
+7,2,"Burgers, Tacos & Dogs",Cempazuchi,2009-08-10,43.0349931,-87.922497,,,Wisconsin
+7,3,Name That Cook,Rick's Press Room & Grill,2009-08-17,43.6086295,-116.392326,,,Idaho
+7,3,Name That Cook,Nic's Grill,2009-08-17,35.4729886,-97.5170536,4.5,$$,Oklahoma
+7,3,Name That Cook,Pam's Kitchen,2009-08-17,47.6038321,-122.3300624,4.0,$$,Washington
+7,4,Global Grub,Prince Lebanese Grill,2009-08-24,32.701938999999996,-97.10562379033699,4.5,$$,Texas
+7,4,Global Grub,Tre Kronor,2009-08-24,41.8755616,-87.6244212,4.0,$$,Illinois
+7,4,Global Grub,La Texanita,2009-08-24,38.4404925,-122.7141049,,,California
+7,5,Only At This Joint,Podnah's Pit Barbeque,2009-08-31,45.5202471,-122.6741949,4.0,$$,Oregon
+7,5,Only At This Joint,Donnie Mac's Trailer Park Cuisine,2009-08-31,43.6166163,-116.200886,,,Idaho
+7,5,Only At This Joint,Whale's Rib,2009-08-31,26.318342,-80.0996306,4.0,$$,Florida
+7,6,You Picked ‘Em,Eischen's Bar & Grill,2009-09-07,35.7258795,-97.9764411,4.0,$$,Oklahoma
+7,6,You Picked ‘Em,Mom's Tamales,2009-09-07,34.0536909,-118.2427666,5.0,,California
+7,6,You Picked ‘Em,Kenny & Ziggy's,2009-09-07,29.7589382,-95.3676974,,,Texas
+7,7,You Can Say That Again,Tap Tap Haitian Restaurant,2009-10-05,25.7929198,-80.1353006,,,Florida
+7,7,You Can Say That Again,Pok Pok,2009-10-05,45.5202471,-122.6741949,4.0,$$,Oregon
+7,7,You Can Say That Again,Niko Niko's,2009-10-05,29.7589382,-95.3676974,,,Texas
+7,8,"Barbequed, Baked & Brined",Honky Tonk BBQ,2009-10-12,41.8755616,-87.6244212,3.5,$$,Illinois
+7,8,"Barbequed, Baked & Brined",Pizzalchik,2009-10-12,43.6166163,-116.200886,,,Idaho
+7,8,"Barbequed, Baked & Brined",Lucky's Café,2009-10-12,41.5051613,-81.6934446,4.0,$$,Ohio
+7,9,Blast from the Past,Cattlemen's Steakhouse,2009-10-19,35.4729886,-97.5170536,,,Oklahoma
+7,9,Blast from the Past,Sam LaGrassa's,2009-10-19,42.3602534,-71.0582912,4.5,$$,Massachusetts
+7,9,Blast from the Past,Nickel Diner,2009-10-19,34.0536909,-118.2427666,4.0,$$,California
+7,10,Dives Worth a Drive,Parkview Nightclub,2009-10-26,41.5051613,-81.6934446,4.0,$$,Ohio
+7,10,Dives Worth a Drive,The Shanty,2009-10-26,42.4286321,-87.9239651,4.0,$$,Illinois
+7,10,Dives Worth a Drive,Grover's Bar & Grill,2009-10-26,43.0183913,-78.696697,4.0,$$,New York
+7,11,Family Style,Louis Family Restaurant,2009-11-02,41.8239891,-71.4128343,3.5,$,Rhode Island
+7,11,Family Style,Café Pita+,2009-11-02,29.7589382,-95.3676974,5.0,$$,Texas
+7,11,Family Style,Mambos Café,2009-11-02,34.1469416,-118.2478471,3.5,$$,California
+7,12,Diners Times Three,The Little Depot Diner,2009-11-09,42.5278731,-70.9286609,4.5,$,Massachusetts
+7,12,Diners Times Three,Santa Cruz Diner,2009-11-09,37.050096,-121.9905908,2.5,$$,California
+7,12,Diners Times Three,Santa Cruz Diner,2009-11-09,37.050096,-121.9905908,2.5,$$,California
+7,12,Diners Times Three,The Diner,2009-11-09,35.2225717,-97.4394816,4.5,$,Oklahoma
+7,13,Legacies,Lake Effect Diner,2009-11-16,42.8867166,-78.8783922,3.5,$$,New York
+7,13,Legacies,Lake Effect Diner,2009-11-16,42.8867166,-78.8783922,3.5,$$,New York
+7,13,Legacies,Geraci's Restaurant,2009-11-16,41.5051613,-81.6934446,3.5,$$,Ohio
+7,13,Legacies,Morin's Hometown Bar & Grill,2009-11-16,41.9438129,-71.2806515,3.5,$$,Massachusetts
+8,1,"Burgers, Steaks & Chops",Mr. Bartley's Gourmet Burgers,2009-11-23,42.3750997,-71.1056157,3.5,$$,Massachusetts
+8,1,"Burgers, Steaks & Chops",T-Bone Tom's Steakhouse,2009-11-23,29.5427297,-95.0204837,,,Texas
+8,1,"Burgers, Steaks & Chops",Tee Off Bar & Grill,2009-11-23,37.7790262,-122.4199061,,,California
+8,2,"Pizza, Pork & Paprikash",Pizza Junction,2010-01-11,43.038668,-78.8642034,,,New York
+8,2,"Pizza, Pork & Paprikash",Sterle's Slovenian Country House,2010-01-11,41.5051613,-81.6934446,,,Ohio
+8,2,"Pizza, Pork & Paprikash",Q Restaurant,2010-01-11,37.7790262,-122.4199061,3.5,$$,California
+8,3,"Stacked, Stuffed & Loaded",Bob's Taco Station,2010-01-18,29.5571825,-95.8085623,3.5,$$,Texas
+8,3,"Stacked, Stuffed & Loaded",Crazy Burger Café & Juice Bar,2010-01-18,41.4501021,-71.4495005,4.0,$$,Rhode Island
+8,3,"Stacked, Stuffed & Loaded",The Oinkster,2010-01-18,34.1366877,-118.2076796,4.0,$$,California
+8,3,"Stacked, Stuffed & Loaded",The Oinkster,2010-01-18,34.1366877,-118.2076796,4.0,$$,California
+8,4,Triple D Goes Tailgatin',Rudy's Can't Fail Cafe,2010-01-25,37.8314089,-122.2865266,3.5,$$,California
+8,4,Triple D Goes Tailgatin',900 Grayson Restaurant,2010-01-25,37.8708393,-122.2728639,,,California
+8,4,Triple D Goes Tailgatin',Rick & Ann's Restaurant,2010-01-25,37.8708393,-122.2728639,,,California
+8,5,Home And Away,Taste of Peru,2010-02-01,41.8755616,-87.6244212,4.0,$$,Illinois
+8,5,Home And Away,Ingrid's Kitchen,2010-02-01,35.4729886,-97.5170536,4.0,$$,Oklahoma
+8,5,Home And Away,Blackthorn Restaurant & Pub,2010-02-01,42.8867166,-78.8783922,4.0,$$,New York
+8,6,By Request,South 21 Drive-In,2010-02-08,35.2270869,-80.8431268,4.0,$,North Carolina
+8,6,By Request,Red Lion Pub & Restaurant,2010-02-08,29.7589382,-95.3676974,,,Texas
+8,6,By Request,Melt Bar & Grilled,2010-02-08,41.4819932,-81.7981908,4.0,$$,Ohio
+8,7,And The Kicker Is...,Pawley's Front Porch,2010-02-15,34.0007493,-81.0343313,3.5,$$,South Carolina
+8,7,And The Kicker Is...,Sophia Restaurant,2010-02-15,42.8867166,-78.8783922,4.5,$,New York
+8,7,And The Kicker Is...,Bette's Oceanview Diner,2010-02-15,37.8708393,-122.2728639,4.0,$$,California
+8,8,Comfort Food Classics,The Liberty Elm Diner,2010-02-22,41.8239891,-71.4128343,,,Rhode Island
+8,8,Comfort Food Classics,Naglee Park Garage,2010-02-22,37.3361905,-121.8905833,3.5,$$,California
+8,8,Comfort Food Classics,Dish,2010-02-22,35.2270869,-80.8431268,4.0,$$,North Carolina
+8,9,Twists And Traditions,Earl's Drive-In,2010-03-22,42.5681176,-78.4789091,,,New York
+8,9,Twists And Traditions,Aldo's Harbor Restaurant,2010-03-22,37.050096,-121.9905908,3.5,$$,California
+8,9,Twists And Traditions,Momocho,2010-03-22,41.5051613,-81.6934446,4.0,$$,Ohio
+8,10,Fresh And Funky,Dish Café & Catering,2010-03-29,39.5261206,-119.8126581,4.5,$$,Nevada
+8,10,Fresh And Funky,Landmark Restaurant,2010-03-29,35.2270869,-80.8431268,3.5,$,North Carolina
+8,10,Fresh And Funky,Pier 23 Café,2010-03-29,37.7790262,-122.4199061,,,California
+8,11,Triple D Goes Hawaiian,Highway Inn & Ho'okipa Catering,2010-04-05,21.3866667,-158.0091667,,,Hawaii
+8,11,Triple D Goes Hawaiian,Hank's Haute Dogs,2010-04-05,21.304547,-157.8556764,4.0,$,Hawaii
+8,11,Triple D Goes Hawaiian,Nico's Pier 38,2010-04-05,21.304547,-157.8556764,4.0,$$,Hawaii
+8,11,Triple D Goes Hawaiian,Germaine's Luau,2010-04-05,21.3339504,-158.0771853,3.5,$$$$,Hawaii
+9,1,Surf ‘n Turf,North End Café,2010-04-27,33.8915985,-118.3951241,4.0,$$,California
+9,1,Surf ‘n Turf,Gold ‘N Silver Inn,2010-04-27,39.5261206,-119.8126581,3.5,$$,Nevada
+9,1,Surf ‘n Turf,Singleton's Seafood Shack,2010-04-27,30.342165,-81.37037027731958,3.5,$$,Florida
+9,2,Homegrown & Homemade,The Farmer's Shed,2010-05-03,33.8986841,-81.275054,,,South Carolina
+9,2,Homegrown & Homemade,Poke Stop at Mililana Mauka Llc.,2010-05-03,21.4508308,-158.0095783,,,Hawaii
+9,2,Homegrown & Homemade,Mulberry Café,2010-05-03,42.81909025,-78.833717479075,,,New York
+9,3,Globetrottin',Louis' Basque Corner,2010-05-10,39.5261206,-119.8126581,4.0,$$,Nevada
+9,3,Globetrottin',13 Gypsies,2010-05-10,30.3321838,-81.655651,4.0,$$,Florida
+9,3,Globetrottin',Gloria's Café,2010-05-10,34.0536909,-118.2427666,4.0,$$,California
+9,4,Bringin' It Home,Café Citti,2010-05-17,38.4138005,-122.5460935,4.0,$$,California
+9,4,Bringin' It Home,Cabo Fish Taco,2010-05-17,35.2270869,-80.8431268,4.0,$$,North Carolina
+9,4,Bringin' It Home,Murphy's Bar & Grill,2010-05-17,21.304547,-157.8556764,4.0,$$,Hawaii
+9,5,Porkapalooza,At Last Café,2010-05-24,33.7690164,-118.1916048,,,California
+9,5,Porkapalooza,Virgil's Café,2010-05-24,39.1067078,-84.4826482,,,Kentucky
+9,5,Porkapalooza,Martin's Bar-B-Que Joint,2010-05-24,35.9522852,-86.6694413,4.0,$$,Tennessee
+9,6,"Grilled, Smoked & Sauced",Terry's Turf Club,2010-05-31,39.1014537,-84.5124602,4.0,$$,Ohio
+9,6,"Grilled, Smoked & Sauced",Terry's Turf Club,2010-05-31,39.1014537,-84.5124602,4.0,$$,Ohio
+9,6,"Grilled, Smoked & Sauced",Schellville Grille,2010-05-31,38.5110803,-122.8473388,3.5,$$,California
+9,6,"Grilled, Smoked & Sauced",Jake's Good Eats,2010-05-31,35.2270869,-80.8431268,3.5,$$,North Carolina
+9,7,Comfort Food With Attitude,Jax At The Trax,2010-06-07,39.327962,-120.1832533,3.5,$$,California
+9,7,Comfort Food With Attitude,Culhane's Irish Pub,2010-06-07,30.342165,-81.37037027731958,4.5,$$,Florida
+9,7,Comfort Food With Attitude,Blue Ash Chili Restaurant,2010-06-07,39.1014537,-84.5124602,4.5,$,Ohio
+9,8,Fast Food Their Way,Don Chow Tacos,2010-06-21,34.0536909,-118.2427666,,,California
+9,8,Fast Food Their Way,Don Chow Tacos,2010-06-21,34.0536909,-118.2427666,,,California
+9,8,Fast Food Their Way,Rainbow Drive-In,2010-06-21,21.304547,-157.8556764,4.0,$,Hawaii
+9,8,Fast Food Their Way,Rainbow Drive-In,2010-06-21,21.304547,-157.8556764,4.0,$,Hawaii
+9,8,Fast Food Their Way,Northern Waters Smokehaus,2010-06-21,46.7729322,-92.1251218,4.5,$$,Minnesota
+9,9,Farm To Table,Blackwater Grill,2010-06-28,31.2182863,-81.3612077,3.5,$$,Georgia
+9,9,Farm To Table,Comet Ping Pong,2010-06-28,38.8948932,-77.0365529,3.5,$$,DC
+9,9,Farm To Table,Wallace Station,2010-06-28,38.052576,-84.7299464,,,Kentucky
+9,10,Kansas City Barbeque Tour,Smokin' Guns BBQ,2010-07-12,39.1432057,-94.5733988,3.5,$$,Missouri
+9,10,Kansas City Barbeque Tour,RJ's Bob-Be-Que Shack,2010-07-12,39.0277832,-94.6557914,3.5,$$,Kansas
+9,10,Kansas City Barbeque Tour,Johnny's Bar-B-Q,2010-07-12,39.0277832,-94.6557914,,,Kansas
+9,10,Kansas City Barbeque Tour,Woodyard Bar-B-Que,2010-07-12,39.1134562,-94.626497,4.0,$$,Kansas
+9,11,Burgers ‘n More,Swagger Fine Spirits & Food,2010-07-19,39.100105,-94.5781416,,,Missouri
+9,11,Burgers ‘n More,Burger Me!,2010-07-19,39.327962,-120.1832533,4.0,$$,California
+9,11,Burgers ‘n More,Athens Family Restaurant,2010-07-19,36.1622296,-86.7743531,4.0,$$,Tennessee
+9,12,You Called It,Paul's Coffee Shop,2010-07-26,33.7038145,-117.9627349,3.5,$$,California
+9,12,You Called It,Paul's Coffee Shop,2010-07-26,33.7038145,-117.9627349,3.5,$$,California
+9,12,You Called It,Rick's White Light Diner,2010-07-26,38.2009055,-84.8732836,4.0,$$,Kentucky
+9,12,You Called It,Rick's White Light Diner,2010-07-26,38.2009055,-84.8732836,4.0,$$,Kentucky
+9,12,You Called It,Gordy's Hi-Hat,2010-07-26,46.7216102,-92.4593566,,,Minnesota
+9,13,Old Time Attitude,Arnold's Country Kitchen,2010-08-09,36.1622296,-86.7743531,4.5,$$,Tennessee
+9,13,Old Time Attitude,Southern Soul Barbeque,2010-08-09,31.2182863,-81.3612077,4.5,$$,Georgia
+9,13,Old Time Attitude,Maine Diner,2010-08-09,43.322181,-70.580978,4.0,$$,Maine
+10,1,Family Joints,Kramarczuk's,2010-08-30,44.9772995,-93.2654692,,,Minnesota
+10,1,Family Joints,Happy Gillis Café & Hangout,2010-08-30,39.100105,-94.5781416,4.5,$$,Missouri
+10,1,Family Joints,Hillbilly Hot Dogs,2010-08-30,38.5064731,-82.2984823,4.5,$$,West Virginia
+10,1,Family Joints,Hillbilly Hot Dogs,2010-08-30,38.5064731,-82.2984823,4.5,$$,West Virginia
+10,2,Tried and True,Mama Cozza's,2010-09-09,33.8347516,-117.911732,3.0,$$,California
+10,2,Tried and True,Tune In Restaurant,2010-09-09,38.8948932,-77.0365529,,,DC
+10,2,Tried and True,Bob's Clam Hut,2010-09-09,43.088448,-70.736847,4.0,$$,Maine
+10,2,Tried and True,Bob's Clam Hut,2010-09-09,43.088448,-70.736847,4.0,$$,Maine
+10,3,Timeless,Greek Corner Restaurant,2010-09-13,42.3750997,-71.1056157,4.0,$$,Massachusetts
+10,3,Timeless,Bro's Cajun Cuisine,2010-09-13,36.1622296,-86.7743531,3.5,$$,Tennessee
+10,3,Timeless,The General Store,2010-09-13,38.9959461,-77.0276231,4.0,$$,Maryland
+10,4,You Found ‘Em,Parkette Drive In,2010-09-20,38.0464066,-84.4970393,3.5,$,Kentucky
+10,4,You Found ‘Em,Metro Diner,2010-09-20,30.3321838,-81.655651,4.5,$$,Florida
+10,4,You Found ‘Em,Al's Breakfast,2010-09-20,44.9772995,-93.2654692,4.0,$$,Minnesota
+10,4,You Found ‘Em,Al's Breakfast,2010-09-20,44.9772995,-93.2654692,4.0,$$,Minnesota
+10,4,You Found ‘Em,Al's Breakfast,2010-09-20,44.9772995,-93.2654692,4.0,$$,Minnesota
+10,5,"Wings, Dogs and Claws",The Lobster Shanty,2010-09-27,42.5195292,-70.8967226,3.5,$$,Massachusetts
+10,5,"Wings, Dogs and Claws",The Brick,2010-09-27,39.100105,-94.5781416,4.0,$,Missouri
+10,5,"Wings, Dogs and Claws",Oohh's & Aahh's Gourmet Deli,2010-09-27,38.8948932,-77.0365529,,,DC
+10,6,Sauced and Spiced,J.J. McBrewster's,2010-10-04,38.0464066,-84.4970393,,,Kentucky
+10,6,Sauced and Spiced,At Sara's Table Chester Creek Café,2010-10-04,46.7729322,-92.1251218,4.0,$$,Minnesota
+10,6,Sauced and Spiced,Café Rakka,2010-10-04,36.3049177,-86.621443,4.5,$$,Tennessee
+10,7,Made to Order,Rino's Place,2010-10-25,42.3750973,-71.0392173,4.0,$$,Massachusetts
+10,7,Made to Order,The Blue Door Pub,2010-10-25,44.9504037,-93.1015026,,,Minnesota
+10,7,Made to Order,Bay Way Diner,2010-10-25,40.6220478,-74.2445902,,,New Jersey
+10,7,Made to Order,Bay Way Diner,2010-10-25,40.6220478,-74.2445902,,,New Jersey
+10,8,"Fresh, Filled and Fried",Chaps Coffee Co.,2010-11-01,47.6579425,-117.4212265,4.0,$$,Washington
+10,8,"Fresh, Filled and Fried",Good Dog Bar & Restaurant,2010-11-01,39.9527237,-75.1635262,,,Pennsylvania
+10,8,"Fresh, Filled and Fried",Porthole Restaurant,2010-11-01,43.6610277,-70.2548596,3.5,$$,Maine
+10,9,Gone Global,LaCaraquena,2010-11-08,38.882334,-77.1710914,,,Virginia
+10,9,Gone Global,Savarino's Cucina,2010-11-08,36.1622296,-86.7743531,,,Tennessee
+10,9,Gone Global,Brats Brothers,2010-11-08,34.1508718,-118.4489865,,,California
+10,10,A Triple D Thanksgiving,George's Place,2010-11-15,39.1765386,-74.8012119,4.0,$$,New Jersey
+10,10,A Triple D Thanksgiving,Becky's Diner,2010-11-15,43.6610277,-70.2548596,4.0,$$,Maine
+10,10,A Triple D Thanksgiving,Sammy's Food Service & Deli,2010-11-15,29.9499323,-90.0701156,4.0,$$,Louisiana
+10,11,Sweet ‘n Savory,Meal Ticket,2010-11-26,37.8708393,-122.2728639,,,California
+10,11,Sweet ‘n Savory,Metro 29 Diner,2010-11-26,38.8903961,-77.0841585,3.0,$$,Virginia
+10,11,Sweet ‘n Savory,Duluth Grill,2010-11-26,46.7729322,-92.1251218,4.5,$$,Minnesota
+10,12,Wings ‘n Things,10th Avenue Burrito,2010-12-13,40.1784471,-74.0218037,3.0,$$,New Jersey
+10,12,Wings ‘n Things,Capone's Pub,2010-12-13,47.6742994,-116.7811531,4.0,$$,Idaho
+10,12,Wings ‘n Things,Jamaicaway,2010-12-13,36.1622296,-86.7743531,,,Tennessee
+10,13,Sandwiches Plus,Elk Public House,2010-12-18,47.6579425,-117.4212265,4.0,$$,Washington
+10,13,Sandwiches Plus,Colossal Café,2010-12-18,44.9772995,-93.2654692,4.0,$$,Minnesota
+10,13,Sandwiches Plus,Maui's Dog House,2010-12-18,38.9917797,-74.8148894,3.5,$,New Jersey
+11,1,From Pork to Tofu,Tortilla Café,2011-01-03,38.8948932,-77.0365529,4.0,$,DC
+11,1,From Pork to Tofu,Memphis Taproom,2011-01-03,39.9527237,-75.1635262,4.0,$$,Pennsylvania
+11,1,From Pork to Tofu,The Golden Bear,2011-01-03,38.5815719,-121.4943996,4.0,$$,California
+11,2,"Po'' Boys, Pasta & Pork",Mahoney's Po-Boy Shop,2011-01-10,29.9499323,-90.0701156,,,Louisiana
+11,2,"Po'' Boys, Pasta & Pork",Hill's Restaurant & Lounge,2011-01-10,47.6579425,-117.4212265,,,Washington
+11,2,"Po'' Boys, Pasta & Pork",Q Fanatic BBQ,2011-01-10,45.1888539,-93.3974538,4.0,$$,Minnesota
+11,3,Funky Finds,Sage General Store,2011-01-17,40.7498243,-73.7976337,,,New York
+11,3,Funky Finds,Quahog's Seafood Shack,2011-01-17,39.0509468,-74.7579418,3.5,$$,New Jersey
+11,3,Funky Finds,W.O.W. – Worth Our Weight,2011-01-17,38.4404925,-122.7141049,,,California
+11,4,Quirky Classics,Louie & The Red Head Lady,2011-01-24,30.3582305,-90.0657477,,,Louisiana
+11,4,Quirky Classics,Honey's Sit-N-Eat,2011-01-24,39.9527237,-75.1635262,4.0,$$,Pennsylvania
+11,4,Quirky Classics,Picabu Neighborhood Bistro,2011-01-24,47.6579425,-117.4212265,,,Washington
+11,5,A Little Twisted,The Pit Stop,2011-01-31,40.652246000000005,-73.55127940021693,3.0,$$,New York
+11,5,A Little Twisted,Gatsby's Diner,2011-01-31,38.5815719,-121.4943996,,,California
+11,5,A Little Twisted,Anchor Bar,2011-01-31,46.7207737,-92.1040796,4.0,$,Wisconsin
+11,6,Signature Sandwiches,La Pines Café,2011-02-07,30.2751945,-89.7811745,4.0,$,Louisiana
+11,6,Signature Sandwiches,Steuben's Food Service,2011-02-07,39.7392364,-104.9848623,,,Colorado
+11,6,Signature Sandwiches,3 Sisters Café,2011-02-07,39.7683331,-86.1583502,4.0,$$,Indiana
+11,7,Favorites With A Twist,Jimmy's Down the Street,2011-02-28,47.6742994,-116.7811531,4.5,$$,Idaho
+11,7,Favorites With A Twist,Aunt Mary's Café,2011-02-28,37.8044557,-122.2713563,4.0,$$,California
+11,7,Favorites With A Twist,Corey's Catsup & Mustard,2011-02-28,41.78126995,-72.53062934076323,,,Connecticut
+11,8,Soup & Sandwiches,Pineville Tavern,2011-03-07,40.2962183,-75.0057242,3.0,$$,Pennsylvania
+11,8,Soup & Sandwiches,Indy's Historic Steer-In Restaurant,2011-03-07,39.7683331,-86.1583502,4.0,$,Indiana
+11,8,Soup & Sandwiches,Dad's Kitchen,2011-03-07,38.5815719,-121.4943996,4.0,$$,California
+11,9,From Crepes to Kreplach,Ben's Best Deli,2011-03-14,40.7498243,-73.7976337,,,New York
+11,9,From Crepes to Kreplach,Foolish Craig's Café,2011-03-14,40.0149856,-105.2705456,4.0,$$,Colorado
+11,9,From Crepes to Kreplach,Waddell's Pub & Grille,2011-03-14,47.6579425,-117.4212265,3.5,$$,Washington
+11,10,Fully Loaded,Katie's Restaurant,2011-03-21,29.9499323,-90.0701156,4.0,$$,Louisiana
+11,10,Fully Loaded,Jersey Café,2011-03-21,39.9788017,-86.1189257,,,Indiana
+11,10,Fully Loaded,Merritt Canteen Inc.,2011-03-21,41.1670412,-73.2048348,4.0,$,Connecticut
+11,11,From Mozz to Matzo Balls,Sunflower Café,2011-03-28,38.5110803,-122.8473388,4.0,$$,California
+11,11,From Mozz to Matzo Balls,Hildebrandt's,2011-03-28,40.75649,-73.6448513,3.5,$$,New York
+11,11,From Mozz to Matzo Balls,The Bagel Delicatessen & Restaurant,2011-03-28,39.7392364,-104.9848623,,,Colorado
+11,11,From Mozz to Matzo Balls,The Bagel Delicatessen & Restaurant,2011-03-28,39.7392364,-104.9848623,,,Colorado
+11,12,Signature Twists,The Barking Dog,2011-04-04,39.7683331,-86.1583502,,,Indiana
+11,12,Signature Twists,Putah Creek Café,2011-04-04,38.5249065,-121.9708017,3.5,$$,California
+11,12,Signature Twists,The Old Coffee Pot Restaurant,2011-04-04,29.9499323,-90.0701156,3.5,$$,Louisiana
+11,13,Porktastic,Jimtown Store,2011-04-11,38.6298355,-122.85900211842106,4.0,$$,California
+11,13,Porktastic,Dough Pizzeria Napoletana,2011-04-11,29.4246002,-98.4951405,4.0,$$,Texas
+11,13,Porktastic,Dough Pizzeria Napoletana,2011-04-11,29.4246002,-98.4951405,4.0,$$,Texas
+11,13,Porktastic,Sam's No. 3,2011-04-11,39.7392364,-104.9848623,4.0,$$,Colorado
+12,1,Bar Food and Bon Bons,The Sparrow Tavern,2011-05-09,40.7498243,-73.7976337,4.0,$$,New York
+12,1,Bar Food and Bon Bons,Catelli's,2011-05-09,38.707687,-122.9024964,4.5,$$,California
+12,1,Bar Food and Bon Bons,Zest,2011-05-09,39.7683331,-86.1583502,,,Indiana
+12,2,From Kraut to Couscous,Lauer-Krauts,2011-05-16,39.90699075,-104.83740644981583,4.5,$,Colorado
+12,2,From Kraut to Couscous,Moroccan Bites,2011-05-16,29.4246002,-98.4951405,4.0,$$,Texas
+12,2,From Kraut to Couscous,California Tacos To Go,2011-05-16,27.9477595,-82.458444,4.0,$,Florida
+12,3,You Can Only Get It Here,HRD Coffee Shop,2011-05-23,37.7790262,-122.4199061,,,California
+12,3,You Can Only Get It Here,The Tamale Place,2011-05-23,39.7683331,-86.1583502,4.5,$,Indiana
+12,3,You Can Only Get It Here,Garifuna Flava,2011-05-23,41.8755616,-87.6244212,4.5,$$,Illinois
+12,4,Grillin' and Smokin',Bun ‘N Barrel,2011-09-12,29.4246002,-98.4951405,3.5,$,Texas
+12,4,Grillin' and Smokin',Tocabe American Indian Eatery,2011-09-12,39.7392364,-104.9848623,4.5,$,Colorado
+12,4,Grillin' and Smokin',Tocabe American Indian Eatery,2011-09-12,39.7392364,-104.9848623,4.5,$,Colorado
+12,4,Grillin' and Smokin',Munch's Restaurant & Sundries,2011-09-12,27.7703796,-82.6695085,,,Florida
+12,5,Southern Flavor,Broken Record,2011-09-19,37.7790262,-122.4199061,4.0,$,California
+12,5,Southern Flavor,Bang!,2011-09-19,39.7392364,-104.9848623,,,Colorado
+12,5,Southern Flavor,Jose's Real Cuban Food,2011-09-19,27.4989278,-82.5748194,,,Florida
+12,6,Gettin' Fresh,The Sink,2011-09-26,40.0149856,-105.2705456,3.5,$$,Colorado
+12,6,Gettin' Fresh,Nana Organic,2011-09-26,41.8755616,-87.6244212,,,Illinois
+12,6,Gettin' Fresh,Get Fresh Café,2011-09-26,36.8462923,-76.2929252,,,Virginia
+12,7,Homemade & Homebrewed,Tampa Bay Brewing Co.,2011-10-03,27.9477595,-82.458444,4.0,$$,Florida
+12,7,Homemade & Homebrewed,Zydeco's,2011-10-03,39.6128243,-86.37416,4.0,$$,Indiana
+12,7,Homemade & Homebrewed,Zydeco's,2011-10-03,39.6128243,-86.37416,4.0,$$,Indiana
+12,7,Homemade & Homebrewed,Chilam Balam,2011-10-03,41.8755616,-87.6244212,3.5,$$,Illinois
+12,8,Latin Street Food,Irazu,2011-10-10,41.8755616,-87.6244212,,,Illinois
+12,8,Latin Street Food,Beto's Comida Latina,2011-10-10,29.4246002,-98.4951405,,,Texas
+12,8,Latin Street Food,Tortilleria Nixtamal,2011-10-10,40.7498243,-73.7976337,4.0,,New York
+12,9,Slammin' Sammies,Taco Taco Mexican Restaurant,2011-10-17,29.4246002,-98.4951405,4.5,$,Texas
+12,9,Slammin' Sammies,Whitner's Barbeque,2011-10-17,36.8529841,-75.9774183,3.5,$$,Virginia
+12,9,Slammin' Sammies,DMK Burger Bar,2011-10-17,41.8755616,-87.6244212,4.0,$$,Illinois
+12,10,Global Comfort,Rigoletto Italian Bakery & Café,2011-10-24,36.8529841,-75.9774183,4.0,$$,Virginia
+12,10,Global Comfort,Rigoletto Italian Bakery & Café,2011-10-24,36.8529841,-75.9774183,4.0,$$,Virginia
+12,10,Global Comfort,Chuck's Southern Comforts Café,2011-10-24,41.741406,-87.7686078,4.0,$$,Illinois
+12,10,Global Comfort,El Bohio,2011-10-24,29.4246002,-98.4951405,,,Texas
+12,11,"Breakfast, Lunch & Dinner",Magnolia Pancake Haus,2011-10-31,29.4246002,-98.4951405,4.5,$$,Texas
+12,11,"Breakfast, Lunch & Dinner",Taco Bus,2011-10-31,27.9477595,-82.458444,3.5,$,Florida
+12,11,"Breakfast, Lunch & Dinner",Beach Pub,2011-10-31,36.8529841,-75.9774183,3.0,$$,Virginia
+12,12,"Pizza, Pancakes & Pork",Supino Pizzeria,2011-11-07,42.3315509,-83.0466403,4.5,$$,Michigan
+12,12,"Pizza, Pancakes & Pork",Supino Pizzeria,2011-11-07,42.3315509,-83.0466403,4.5,$$,Michigan
+12,12,"Pizza, Pancakes & Pork",Big & Littles,2011-11-07,41.8755616,-87.6244212,,,Illinois
+12,12,"Pizza, Pancakes & Pork",Citrus Breakfast & Lunch,2011-11-07,36.8529841,-75.9774183,,,Virginia
+12,13,Old to New,Polish Village Café,2011-11-21,42.3928151,-83.0496438,4.0,$$,Michigan
+12,13,Old to New,Leaping Lizards Café,2011-11-21,36.8529841,-75.9774183,4.0,$$,Virginia
+12,13,Old to New,Jethros Fine Grub,2011-11-21,49.2608724,-123.1139529,3.0,$$,British Columbia
+13,1,Seafood & Sammies,Fresh Local Wild,2011-11-28,49.2608724,-123.1139529,,,British Columbia
+13,1,Seafood & Sammies,Fresh Local Wild,2011-11-28,49.2608724,-123.1139529,,,British Columbia
+13,1,Seafood & Sammies,Traffic Jam & Snug,2011-11-28,42.3315509,-83.0466403,3.0,$$,Michigan
+13,1,Seafood & Sammies,Panozzo's Italian Market,2011-11-28,41.8755616,-87.6244212,4.5,$,Illinois
+13,2,Coast to Coast Classics,Tomahawk Restaurant,2011-12-05,49.3207133,-123.0737831,,,British Columbia
+13,2,Coast to Coast Classics,Danny's All American Diner,2011-12-05,27.9477595,-82.458444,4.0,$,Florida
+13,3,Kid Rock's Detroit Tour,Clarkston Union Bar & Kitchen,2011-12-12,42.735863,-83.4188304,4.0,$$,Michigan
+13,3,Kid Rock's Detroit Tour,Union Woodshop,2011-12-12,42.735863,-83.4188304,4.5,$$,Michigan
+13,3,Kid Rock's Detroit Tour,Michigan Brewing Co.,2011-12-12,42.6668257,-84.174432,3.5,$$,Michigan
+13,4,Southern Staples,Red Wagon Café,2011-12-19,49.2608724,-123.1139529,,,British Columbia
+13,4,Southern Staples,Perfectly Franks,2011-12-19,33.0206179,-80.1747537,,,South Carolina
+13,4,Southern Staples,Mama's Food Shop,2011-12-19,40.7896239,-73.9598939,,,New York
+13,5,Scratch Made Classics,Lito's Mexican Restaurant,2011-12-26,34.4221319,-119.7026673,,,California
+13,5,Scratch Made Classics,Save On Meats,2011-12-26,49.2608724,-123.1139529,3.5,$$,British Columbia
+13,5,Scratch Made Classics,The Redhead,2011-12-26,40.7896239,-73.9598939,,,New York
+13,6,Meat Madness,Rincon Criollo,2012-01-16,40.7498243,-73.7976337,4.5,$$,New York
+13,6,Meat Madness,Rincon Criollo,2012-01-16,40.7498243,-73.7976337,4.5,$$,New York
+13,6,Meat Madness,Tattooed Moose,2012-01-16,32.7876012,-79.9402728,4.5,$$,South Carolina
+13,6,Meat Madness,Falconetti's,2012-01-16,49.2608724,-123.1139529,,,British Columbia
+13,7,Global Traditions,John's of 12th Street,2012-01-23,40.7896239,-73.9598939,3.5,$$,New York
+13,7,Global Traditions,Mac's Fish & Chip Shop,2012-01-23,34.4221319,-119.7026673,,,California
+13,8,Multitaskers,The Early Bird Diner,2012-01-30,32.7876012,-79.9402728,4.5,$$,South Carolina
+13,8,Multitaskers,Boulevard Diner,2012-01-30,39.2574114,-76.5236745,3.5,$$,Colorado
+13,8,Multitaskers,Boulevard Diner,2012-01-30,39.2574114,-76.5236745,3.5,$$,Maryland
+13,8,Multitaskers,The Kitchen,2012-01-30,34.1976308,-119.1803818,,,New Hampshire
+13,8,Multitaskers,The Kitchen,2012-01-30,34.1976308,-119.1803818,5.0,,California
+13,9,Family Matters,Sidecar,2012-02-06,40.6501038,-73.9495823,3.5,$$,New York
+13,9,Family Matters,Peaceful Restaurant,2012-02-06,49.2608724,-123.1139529,3.5,$$,British Columbia
+13,9,Family Matters,Flip Flops Grill & Chill,2012-02-06,36.8529841,-75.9774183,4.0,$$,Virginia
+13,10,"Old Faves, New Craves",Norton's Pastrami & Deli,2012-02-13,34.4221319,-119.7026673,4.5,$$,California
+13,10,"Old Faves, New Craves",Meat & Bread,2012-02-13,49.2608724,-123.1139529,4.0,$,British Columbia
+13,10,"Old Faves, New Craves",Fuel Cantina,2012-02-13,32.7876012,-79.9402728,,,South Carolina
+13,11,Long Standing Legacies,Defonte's Sandwich Shop,2012-02-20,40.6501038,-73.9495823,,,New York
+13,11,Long Standing Legacies,The Glass Onion,2012-02-20,32.7876012,-79.9402728,4.0,$$,South Carolina
+13,11,Long Standing Legacies,The Glass Onion,2012-02-20,32.7876012,-79.9402728,4.0,$$,South Carolina
+13,11,Long Standing Legacies,Galway Bay Irish Pub,2012-02-20,38.9786401,-76.492786,4.0,$$,Maryland
+13,12,Time Tested Treasures,R&R Taqueria,2012-02-27,39.2128338,-76.7137155,3.5,$$,Maryland
+13,12,Time Tested Treasures,Nye's Polonaise Room,2012-02-27,44.9772995,-93.2654692,,,Minnesota
+13,12,Time Tested Treasures,Moseberth's Fried Chicken,2012-02-27,36.8678592,-76.37559852679193,3.5,$,Virginia
+13,13,Outside the Box,Joe Squared Pizza,2012-03-05,39.2908816,-76.610759,3.5,$$,Maryland
+13,13,Outside the Box,Pepe's and Mito's,2012-03-05,32.7762719,-96.7968559,,,Texas
+13,13,Outside the Box,Savoy Café & Deli,2012-03-05,34.4221319,-119.7026673,4.5,$$,California
+14,1,Triple D All Stars,Pizzeria Lola,2012-04-02,44.9772995,-93.2654692,4.5,$$,Minnesota
+14,1,Triple D All Stars,Monument Cafe,2012-04-02,30.6665525,-97.6779637977368,3.5,$$,Texas
+14,2,Streamlined Sammies,Luke's Inside Out,2012-04-09,30.2711286,-97.7436995,4.5,$$,Texas
+14,2,Streamlined Sammies,Luke's Inside Out,2012-04-09,30.2711286,-97.7436995,4.5,$$,Texas
+14,2,Streamlined Sammies,Smack Shack at The 1029 Bar,2012-04-09,44.9772995,-93.2654692,,,Minnesota
+14,2,Streamlined Sammies,Maple & Motor,2012-04-09,32.7762719,-96.7968559,4.0,$$,Texas
+14,2,Streamlined Sammies,Maple & Motor,2012-04-09,32.7762719,-96.7968559,4.0,$$,Texas
+14,3,Crankin' Up the Classics,Broders' Cucina Italiana,2012-04-16,44.9772995,-93.2654692,4.0,$$,Minnesota
+14,3,Crankin' Up the Classics,Chop House Burgers,2012-04-16,32.701938999999996,-97.10562379033699,4.0,,Texas
+14,4,Passin' The Baton,Pete's Breakfast House,2012-04-23,34.4458248,-119.0779359,4.5,$$,California
+14,4,Passin' The Baton,Sip & Bite Restaurant,2012-04-23,39.2908816,-76.610759,3.5,$$,Maryland
+14,5,Big Time Flavor,Marla's Caribbean Cuisine,2012-04-30,44.9772995,-93.2654692,4.0,$$,Minnesota
+14,5,Big Time Flavor,Cane Rosso,2012-04-30,32.7762719,-96.7968559,4.0,$$,Texas
+14,5,Big Time Flavor,Counter Cafe,2012-04-30,30.2711286,-97.7436995,4.0,$$,Texas
+14,6,Unexpected Eats,Smalley's Caribbean Barbeque,2012-05-07,45.0564041,-92.8134982,,,Minnesota
+14,6,Unexpected Eats,Smalley's Caribbean Barbeque,2012-05-07,45.0564041,-92.8134982,,,Minnesota
+14,6,Unexpected Eats,Johnny Garlic's,2012-05-07,38.4404925,-122.7141049,,,California
+14,6,Unexpected Eats,Harvey's Hot Dogs II,2012-05-07,36.8678592,-76.37559852679193,,,Virginia
+14,7,BBQ Road Show,Pecan Lodge,2012-05-28,32.7762719,-96.7968559,4.5,$$,Texas
+14,7,BBQ Road Show,John Mull's Meats and Road Kill Grill,2012-05-28,36.1672559,-115.1485163,4.5,$$,Nevada
+14,8,"All Vegas, All the Time",Naked City Pizza,2012-06-04,36.1672559,-115.1485163,4.0,$$,Nevada
+14,8,"All Vegas, All the Time",Naked City Pizza,2012-06-04,36.1672559,-115.1485163,4.0,$$,Nevada
+14,8,"All Vegas, All the Time",Forte European Tapas Bar & Bistro,2012-06-04,36.1672559,-115.1485163,4.0,$$,Nevada
+14,8,"All Vegas, All the Time",Forte European Tapas Bar & Bistro,2012-06-04,36.1672559,-115.1485163,4.0,$$,Nevada
+14,8,"All Vegas, All the Time",UNLV,2012-06-04,36.1672559,-115.1485163,,,Nevada
+14,8,"All Vegas, All the Time",UNLV,2012-06-04,36.1672559,-115.1485163,,,Nevada
+14,9,Serious Sandwiches,Lola's – A Louisiana Kitchen,2012-06-11,36.1672559,-115.1485163,4.0,$$,Nevada
+14,9,Serious Sandwiches,Noble Pig Sandwiches,2012-06-11,30.2711286,-97.7436995,,,Texas
+14,9,Serious Sandwiches,Casper & Runyon's Nook,2012-06-11,44.9504037,-93.1015026,4.5,$$,Minnesota
+14,10,International Eats,Bachi Burger,2012-06-18,36.1672559,-115.1485163,4.0,$$,Nevada
+14,10,International Eats,Bachi Burger,2012-06-18,36.1672559,-115.1485163,4.0,$$,Nevada
+14,10,International Eats,Afrah,2012-06-18,32.9481789,-96.7297206,,,Texas
+14,10,International Eats,Gazala's Place,2012-06-18,40.7896239,-73.9598939,3.5,$$,New York
+14,11,Belly Up,Hopleaf Bar,2012-06-25,41.8755616,-87.6244212,4.0,$$,Illinois
+14,11,Belly Up,Foreign & Domestic,2012-06-25,30.2711286,-97.7436995,3.5,$$,Texas
+14,12,Dynamic Dishes,Jawaiian Irie Jerk Restaurant,2012-07-02,21.304547,-157.8556764,,,Hawaii
+14,12,Dynamic Dishes,Jawaiian Irie Jerk Restaurant,2012-07-02,21.304547,-157.8556764,,,Hawaii
+14,12,Dynamic Dishes,Taste of Europe,2012-07-02,32.701938999999996,-97.10562379033699,4.5,$$,Texas
+14,12,Dynamic Dishes,Yayo Taco,2012-07-02,36.1672559,-115.1485163,,,Nevada
+14,13,Coast to Coast Chow,Camille's on Wheels,2012-07-30,21.394833,-157.72989134661873,,,Hawaii
+14,13,Coast to Coast Chow,Chicago Brauhaus,2012-07-30,41.8755616,-87.6244212,,,Illinois
+14,13,Coast to Coast Chow,Dixie Supply Bakery & Cafe,2012-07-30,32.7876012,-79.9402728,,,South Carolina
+15,1,Unconventional Comforts,He'eia Kea Pier General Store and Deli,2012-08-05,21.418555,-157.804184,,,Hawaii
+15,1,Unconventional Comforts,Rex Italian Foods,2012-08-05,41.9633641,-87.827284,4.5,$,Illinois
+15,1,Unconventional Comforts,Memphis Street Cafe,2012-08-05,34.823987,-89.9937018,,,Mississippi
+15,2,Goin' the Extra Mile,bopNgrill,2012-08-13,41.8755616,-87.6244212,,,Illinois
+15,2,Goin' the Extra Mile,Sweet Home Waimanalo,2012-08-13,21.346304,-157.7211,,,Hawaii
+15,3,Savory Standouts,90 Miles Cuban Cafe,2012-08-19,41.8755616,-87.6244212,4.0,$$,Illinois
+15,3,Savory Standouts,90 Miles Cuban Cafe,2012-08-19,41.8755616,-87.6244212,4.0,$$,Illinois
+15,3,Savory Standouts,Davis' Pub,2012-08-19,38.9786401,-76.492786,4.0,$$,Maryland
+15,4,Surf 'N' Turf Jackpot,Memphis Barbecue Co.,2012-08-27,34.9553719,-90.0348139,4.0,$$,Mississippi
+15,4,Surf 'N' Turf Jackpot,Fresh Catch,2012-08-27,21.304547,-157.8556764,4.5,$$,Hawaii
+15,5,Massachusetts Madness,Italian Express Pizzeria,2012-09-03,42.3750973,-71.0392173,4.5,$$,Massachusetts
+15,5,Massachusetts Madness,Cutty's,2012-09-03,42.3317642,-71.1211635,4.0,$,Massachusetts
+15,6,East Coast Comfort,Tupelo,2012-09-24,42.3750997,-71.1056157,,,Massachusetts
+15,6,East Coast Comfort,Patti's Pierogis,2012-09-24,41.7010642,-71.1546367,4.5,$$,Massachusetts
+15,6,East Coast Comfort,Angelo's Civito Farnese,2012-09-24,41.8239891,-71.4128343,,,Rhode Island
+15,6,East Coast Comfort,Mediterraneo Caffe,2012-09-24,41.8239891,-71.4128343,,,Rhode Island
+15,7,Flavortown Medley,South Of Beale (SOB),2012-10-01,35.1490215,-90.0516285,4.0,$$,Tennessee
+15,7,Flavortown Medley,Big Wave Shrimp Truck,2012-10-01,21.5935975,-158.1044696531065,4.0,$$,Hawaii
+15,7,Flavortown Medley,Chaps Pit Beef,2012-10-01,39.2908816,-76.610759,4.5,$,Maryland
+15,7,Flavortown Medley,Chaps Pit Beef,2012-10-01,39.2908816,-76.610759,4.5,$,Maryland
+15,8,"Burgers, Noodles and Quahogs",Boston Burger Company,2012-10-08,42.3602534,-71.0582912,3.5,$$,Massachusetts
+15,8,"Burgers, Noodles and Quahogs",Anthony's Seafood,2012-10-08,41.5456578,-71.2914388,4.0,$$,Rhode Island
+15,8,"Burgers, Noodles and Quahogs",Guerilla Street Food,2012-10-08,38.6529545,-90.24111656024635,,,Missouri
+15,9,Handcrafted,The Elegant Farmer,2012-10-15,35.1490215,-90.0516285,,,Tennessee
+15,9,Handcrafted,Italian Corner,2012-10-15,41.8137116,-71.3700545,4.5,$$,Rhode Island
+15,10,"All Family, All the Time",Anthonino's Taverna,2012-10-22,38.6529545,-90.24111656024635,4.5,$$,Missouri
+15,10,"All Family, All the Time",Three Angels Diner,2012-10-22,35.1490215,-90.0516285,,,Tennessee
+15,10,"All Family, All the Time",Opal Thai Food,2012-10-22,21.5935975,-158.1044696531065,4.0,$$,Hawaii
+15,10,"All Family, All the Time",Opal Thai Food,2012-10-22,21.5935975,-158.1044696531065,4.0,$$,Hawaii
+15,11,Food Done Right,Aunt Carrie's,2012-10-29,41.4501021,-71.4495005,3.0,$$,Rhode Island
+15,11,Food Done Right,The Shaved Duck,2012-10-29,38.6529545,-90.24111656024635,4.5,$$,Missouri
+15,11,Food Done Right,Angela's Cafe,2012-10-29,42.3750973,-71.0392173,,,Massachusetts
+15,12,Pubs and Grub,Dressel's Public House,2012-11-05,38.6529545,-90.24111656024635,4.0,$$,Missouri
+15,12,Pubs and Grub,Outer Banks Brewing Station,2012-11-05,36.0307227,-75.6760101,3.5,$$,North Carolina
+15,12,Pubs and Grub,Edgewood Cafe,2012-11-05,41.7809588,-71.4371257,4.5,$$,Rhode Island
+15,13,Turn On Traditional,Kitty Hoynes,2012-11-12,43.0481221,-76.1474244,,,New York
+15,13,Turn On Traditional,Espino's Mexican Bar and Grill,2012-11-12,38.661953,-90.5643258,3.0,$$,Missouri
+15,13,Turn On Traditional,Yankee Lobster Company,2012-11-12,42.3602534,-71.0582912,4.0,$$,Massachusetts
+16,1,Authentic Eats,Highway 61 Roadhouse and Kitchen,2012-12-10,38.592339,-90.3564329,3.5,$$,Missouri
+16,1,Authentic Eats,Byblos Mediterranean Cafe,2012-12-10,43.0481221,-76.1474244,3.5,$$,New York
+16,2,Fully Focused,Brine and Bottle,2012-12-17,35.9573923,-75.624062,,,North Carolina
+16,2,Fully Focused,Pastabilities,2012-12-17,43.0481221,-76.1474244,4.5,$$,New York
+16,3,Far Out,La Isla Restaurant,2012-12-24,40.7433066,-74.0323752,4.0,$$,New Jersey
+16,3,Far Out,Funk 'n Waffles,2012-12-24,43.0481221,-76.1474244,3.5,$$,New York
+16,3,Far Out,Cravings,2012-12-24,36.169608,-75.7551854,,,North Carolina
+16,4,Matches Made in Heaven,Ortegaz' Southwestern Grill,2013-01-07,35.9082257,-75.6757303,4.0,$$,North Carolina
+16,4,Matches Made in Heaven,The Smoke Joint,2013-01-07,40.6501038,-73.9495823,5.0,,New York
+16,5,Savory Sensations,The Weeping Radish,2013-01-14,36.202939,-75.8665816,,,North Carolina
+16,5,Savory Sensations,Jimmy's Diner,2013-01-14,40.6501038,-73.9495823,4.0,$$,New York
+16,6,Hometown Haunts,Marie's Italian Specialties,2013-01-21,40.7409242,-74.3836711,4.0,$$,New Jersey
+16,6,Hometown Haunts,Darby's Cafe,2013-01-21,47.0451022,-122.8950075,,,Washington
+16,7,Land to Sea,Empire Brewing Company,2013-02-11,43.0481221,-76.1474244,3.5,$$,New York
+16,7,Land to Sea,Black Pelican Oceanfront Restaurant,2013-02-11,36.0664318,-75.6935448,,,North Carolina
+16,7,Land to Sea,Fish Tale Brew Pub,2013-02-11,47.0451022,-122.8950075,3.5,$$,Washington
+16,8,Decadent Dishes,Crockett's Public House,2013-02-18,47.1849009,-122.2921406,4.0,$$,Washington
+16,8,Decadent Dishes,Pies 'N' Thighs,2013-02-18,40.6501038,-73.9495823,4.0,$$,New York
+16,9,Eurocentric,Eva's European Sweets,2013-02-24,43.0481221,-76.1474244,4.5,$$,New York
+16,9,Eurocentric,Bruno's European Restaurant,2013-02-24,47.2495798,-122.4398746,4.0,$$,Washington
+16,9,Eurocentric,Hey Meatball,2013-02-24,43.6534817,-79.3839347,,,Ontario
+16,10,Hittin' the Grill,Crown Bar,2013-03-04,47.2495798,-122.4398746,3.5,$$,Washington
+16,10,Hittin' the Grill,The Golden State,2013-03-04,34.0536909,-118.2427666,4.0,$$,California
+16,11,Unlikely Partners,Beer Belly,2013-03-11,34.0536909,-118.2427666,4.0,$$,California
+16,11,Unlikely Partners,Lakeview Restaurant,2013-03-11,43.6534817,-79.3839347,,,Ontario
+16,12,Layers of Flavor,Tortugas' Lie,2013-03-18,35.9573923,-75.624062,4.0,$$,North Carolina
+16,12,Layers of Flavor,Tortugas' Lie,2013-03-18,35.9573923,-75.624062,4.0,$$,North Carolina
+16,12,Layers of Flavor,The Ace,2013-03-18,43.6534817,-79.3839347,4.0,$$,Ontario
+16,13,Real Deal Roots,Chomp Chomp Nation,2013-03-25,33.6856969,-117.8259819,4.0,$,California
+16,13,Real Deal Roots,Caplansky's,2013-03-25,43.6534817,-79.3839347,,,Ontario
+17,1,Tacos and Tots,Dirty Oscar's Annex,2013-04-22,47.2495798,-122.4398746,4.0,$$,Washington
+17,1,Tacos and Tots,Highland Tavern,2013-04-22,39.7392364,-104.9848623,4.0,$$,Colorado
+17,1,Tacos and Tots,Highland Tavern,2013-04-22,39.7392364,-104.9848623,4.0,$$,Colorado
+17,2,"Chicken, Chili and Chowder",Sidecar Bar and Grille,2013-04-29,39.9527237,-75.1635262,4.0,$$,Pennsylvania
+17,2,"Chicken, Chili and Chowder",Chili John's,2013-04-29,34.1816482,-118.3258554,4.0,$$,California
+17,2,"Chicken, Chili and Chowder",Stockyards Smokehouse and Larder,2013-04-29,43.6534817,-79.3839347,,,Ontario
+17,3,Dynamic Duos,Atomic Cowboy,2013-05-06,39.7392364,-104.9848623,4.0,$$,Colorado
+17,3,Dynamic Duos,Perk Eatery,2013-05-06,33.4942189,-111.9260184,4.0,$$,Arizona
+17,4,Traditional Gone Wild,South Philadelphia Tap Room,2013-05-13,39.9527237,-75.1635262,4.0,$$,Pennsylvania
+17,4,Traditional Gone Wild,St. Francis,2013-05-13,33.4484367,-112.0741417,,,Arizona
+17,5,"Peppers, Pork and Poutine",Barrio Cafe,2013-05-20,33.4484367,-112.0741417,4.0,$$,Arizona
+17,5,"Peppers, Pork and Poutine",Rosedale Diner,2013-05-20,43.6534817,-79.3839347,3.5,$$,Ontario
+17,6,Kings and Queens of 'Cue,Hops & Pie,2013-05-27,39.7392364,-104.9848623,4.5,$$,Colorado
+17,6,Kings and Queens of 'Cue,Bludso's BBQ,2013-05-27,33.894927,-118.226624,4.0,$$,California
+17,6,Kings and Queens of 'Cue,Percy Street Barbecue,2013-05-27,39.9527237,-75.1635262,,,Pennsylvania
+17,7,A Festival of Flavor,Standard Tap,2013-06-17,39.9527237,-75.1635262,4.0,$$,Pennsylvania
+17,7,A Festival of Flavor,Curry Corner,2013-06-17,33.4255056,-111.9400125,3.5,$,Arizona
+17,7,A Festival of Flavor,Prohibition,2013-06-17,39.7392364,-104.9848623,4.0,$$,Colorado
+17,8,Timeless Traditions,Jamaican Jerk Hut,2013-06-24,39.9527237,-75.1635262,2.5,$$,Pennsylvania
+17,8,Timeless Traditions,"DeFalco''s Italian Eatery, Grocery & Deli",2013-06-24,33.4942189,-111.9260184,4.5,$$,Arizona
+17,8,Timeless Traditions,CoraFaye's Café,2013-06-24,39.7392364,-104.9848623,3.5,$$,Colorado
+17,9,From Pound Cake to Pot Pie,Geechee Girl Rice Cafe,2013-07-01,39.9527237,-75.1635262,,,Pennsylvania
+17,9,From Pound Cake to Pot Pie,Haggo's Organic Taco,2013-07-01,33.0692223,-117.302681,4.0,$$,California
+17,9,From Pound Cake to Pot Pie,The Duce,2013-07-01,33.4484367,-112.0741417,3.5,$$,Arizona
+17,10,L.A. Eats,The Park's Finest BBQ,2013-07-08,34.0536909,-118.2427666,4.0,$$,California
+17,10,L.A. Eats,Eastside Market Italian Deli,2013-07-08,34.0536909,-118.2427666,4.5,$,California
+17,11,"All San Diego, All the Time",Hodad's,2013-08-05,32.7448067,-117.2476067,4.0,$$,California
+17,11,"All San Diego, All the Time",Hodad's,2013-08-05,32.7448067,-117.2476067,4.0,$$,California
+17,11,"All San Diego, All the Time",OB Noodle House,2013-08-05,32.7448067,-117.2476067,4.0,$$,California
+17,11,"All San Diego, All the Time",Pizzeria Luigi,2013-08-05,32.7483876,-117.1301564,4.0,$$,California
+17,11,"All San Diego, All the Time",Pizzeria Luigi,2013-08-05,32.7483876,-117.1301564,4.0,$$,California
+17,12,From the Heart,Shirley's Tippy Canoe,2013-08-12,45.5317928,-122.391155,3.0,$$,Oregon
+17,12,From the Heart,Spirito's Italian Diner,2013-08-12,33.1580933,-117.3505966,4.5,$$,California
+17,12,From the Heart,Nopalito,2013-08-12,37.7790262,-122.4199061,4.0,$$,California
+17,13,That's Fresh,Pica Pica,2013-08-19,37.7790262,-122.4199061,,,California
+17,13,That's Fresh,Edelweiss Sausage & Delicatessen,2013-08-19,45.5202471,-122.6741949,4.0,$,Oregon
+18,1,Neighborhood Knockouts,Crest Café,2013-08-26,32.7174209,-117.1627714,3.5,$$,California
+18,1,Neighborhood Knockouts,Show Dogs,2013-08-26,37.7790262,-122.4199061,,,California
+18,1,Neighborhood Knockouts,Industrial Café & Saloon,2013-08-26,45.5202471,-122.6741949,4.0,$$,Oregon
+18,2,Meat Lover's Paradise,The Refuge,2013-09-02,37.504936,-122.2618236,4.0,$$,California
+18,2,Meat Lover's Paradise,The Country Cat,2013-09-02,45.5202471,-122.6741949,,,Oregon
+18,3,Servin' Up San Francisco,Miller's East Coast Deli,2013-09-09,37.7790262,-122.4199061,3.5,$$,California
+18,3,Servin' Up San Francisco,Miller's East Coast Deli,2013-09-09,37.7790262,-122.4199061,3.5,$$,California
+18,3,Servin' Up San Francisco,Koja Kitchen Food Truck,2013-09-09,37.7790262,-122.4199061,4.5,$$,California
+18,3,Servin' Up San Francisco,The Front Porch,2013-09-09,37.7790262,-122.4199061,4.0,$$,California
+18,4,"Cannoli, Fritters and Wings",Senor Sisig Food Truck,2013-09-16,37.7790262,-122.4199061,,,California
+18,4,"Cannoli, Fritters and Wings",A Taste of Home Cooking,2013-09-16,39.766098,-105.0772063,,,Colorado
+18,4,"Cannoli, Fritters and Wings",PDX671 Food Trailer,2013-09-16,45.5202471,-122.6741949,,,Oregon
+18,5,Aces of Authenticity,Casa Chimayo Restaurant,2013-10-21,35.6869996,-105.9377997,4.0,$$,New Mexico
+18,5,Aces of Authenticity,Frank's Noodle House,2013-10-21,45.5202471,-122.6741949,3.5,$$,Oregon
+18,5,Aces of Authenticity,Frank's Noodle House,2013-10-21,45.5202471,-122.6741949,3.5,$$,Oregon
+18,5,Aces of Authenticity,Torinos,2013-10-21,35.0841034,-106.6509851,,,New Mexico
+18,6,Sammies and Stew,Jambo Cafe,2013-10-28,35.6869996,-105.9377997,4.5,$$,New Mexico
+18,6,Sammies and Stew,Bocadillos,2013-10-28,35.0841034,-106.6509851,,,New Mexico
+18,7,All Kinds of Gobble Gobble,Back Street Bistro,2013-11-18,35.6869996,-105.9377997,,,New Mexico
+18,7,All Kinds of Gobble Gobble,Golden Crown Panaderia,2013-11-18,35.0841034,-106.6509851,4.5,$,New Mexico
+18,7,All Kinds of Gobble Gobble,Danny Edward's BBQ,2013-11-18,39.100105,-94.5781416,4.0,$$,Missouri
+18,8,Comfort and Soul,Tin Shed Garden Cafe,2013-11-25,45.5202471,-122.6741949,,,Oregon
+18,8,Comfort and Soul,Nexus Brewery,2013-11-25,35.0841034,-106.6509851,4.0,$$,New Mexico
+18,8,Comfort and Soul,BB's Lawnside BBQ,2013-11-25,39.100105,-94.5781416,4.0,$$,Missouri
+18,9,"Pork, Pasta and Barbecue",Succotash,2013-12-02,39.100105,-94.5781416,4.0,$$,Missouri
+18,9,"Pork, Pasta and Barbecue",Cupini's,2013-12-02,39.100105,-94.5781416,4.0,$$,Missouri
+18,9,"Pork, Pasta and Barbecue",The Cube,2013-12-02,35.0841034,-106.6509851,,,New Mexico
+18,10,South of the Border,Asi y Asado,2013-12-09,22.8938884,-109.9200604,4.5,$,Mexico
+18,10,South of the Border,Solomon's Landing,2013-12-09,22.8938884,-109.9200604,4.0,$$,Mexico
+18,10,South of the Border,Tiki Bar,2013-12-09,22.8938884,-109.9200604,,,Mexico
+18,11,Tennessee Holiday Traditions,Center Point Pit Barbecue,2013-12-16,36.3049177,-86.621443,3.5,$,Tennessee
+18,11,Tennessee Holiday Traditions,Center Point Pit Barbecue,2013-12-16,36.3049177,-86.621443,3.5,$,Tennessee
+18,11,Tennessee Holiday Traditions,Mas Tacos por Favor,2013-12-16,36.1622296,-86.7743531,,,Tennessee
+18,12,Family Time,The Grilled Cheeserie,2013-12-23,36.1622296,-86.7743531,4.0,$$,Tennessee
+18,12,Family Time,The Grilled Cheeserie,2013-12-23,36.1622296,-86.7743531,4.0,$$,Tennessee
+18,12,Family Time,Caffe Nonna,2013-12-23,36.1622296,-86.7743531,4.0,$$,Tennessee
+18,12,Family Time,Blue Koi,2013-12-23,39.100105,-94.5781416,,,Missouri
+18,13,"Soup, Salad and Seafood",Pot Pie,2013-12-30,39.100105,-94.5781416,4.5,$$,Missouri
+18,13,"Soup, Salad and Seafood",55 South,2013-12-30,35.925193,-86.8689365,4.0,$$,Tennessee
+18,13,"Soup, Salad and Seafood",Phat Bites,2013-12-30,36.1622296,-86.7743531,3.5,$,Tennessee
+19,1,Guy's Hometown Tour,Pretzel Cart,2014-02-07,40.576241,-124.263944,,,California
+19,1,Guy's Hometown Tour,Clendenen's Cider Works,2014-02-07,40.597407,-124.156034,4.5,,California
+19,1,Guy's Hometown Tour,Loleta Cheese Shop,2014-02-07,40.6408678,-124.2244729,4.5,$,California
+19,1,Guy's Hometown Tour,Ferndale Meat Co.,2014-02-07,40.576241,-124.263944,4.5,$,California
+19,1,Guy's Hometown Tour,Ivanhoe,2014-02-07,40.576241,-124.263944,,,California
+19,1,Guy's Hometown Tour,Humboldt Sweets,2014-02-07,40.576241,-124.263944,,,California
+19,2,All Things NY,Black Tree,2014-02-14,40.7896239,-73.9598939,,,New York
+19,2,All Things NY,Black Tree,2014-02-14,40.7896239,-73.9598939,,,New York
+19,2,All Things NY,Queen's Comfort,2014-02-14,40.7498243,-73.7976337,4.0,$$,New York
+19,2,All Things NY,Queen's Comfort,2014-02-14,40.7498243,-73.7976337,4.0,$$,New York
+19,2,All Things NY,Paul's Live From New York,2014-02-14,40.8020712,-124.1636729,3.5,$,California
+19,2,All Things NY,Paul's Live From New York,2014-02-14,40.8020712,-124.1636729,3.5,$,California
+19,3,Big Time Bites,Bun-Ker Vietnamese,2014-02-21,40.7498243,-73.7976337,,,New York
+19,3,Big Time Bites,Brindle Room,2014-02-21,40.7896239,-73.9598939,4.0,$$,New York
+19,3,Big Time Bites,Brindle Room,2014-02-21,40.7896239,-73.9598939,4.0,$$,New York
+19,3,Big Time Bites,Brick & Fire,2014-02-21,40.8020712,-124.1636729,4.5,$$,California
+19,3,Big Time Bites,Brick & Fire,2014-02-21,40.8020712,-124.1636729,4.5,$$,California
+19,4,Keepin' It Real,Sakaya Kitchen,2014-02-28,25.7742658,-80.1936589,3.5,$$,Florida
+19,4,Keepin' It Real,Sakaya Kitchen,2014-02-28,25.7742658,-80.1936589,3.5,$$,Florida
+19,4,Keepin' It Real,Sakaya Kitchen,2014-02-28,25.7742658,-80.1936589,3.5,$$,Florida
+19,4,Keepin' It Real,Don Antonio By Starita,2014-02-28,40.7896239,-73.9598939,,,New York
+19,4,Keepin' It Real,Bless My Soul,2014-02-28,40.8020712,-124.1636729,,,California
+19,4,Keepin' It Real,Bless My Soul,2014-02-28,40.8020712,-124.1636729,,,California
+19,5,Dynamite Duos,Duck's Eatery,2014-03-07,40.7896239,-73.9598939,4.0,$$,New York
+19,5,Dynamite Duos,Whisk Gourmet,2014-03-07,25.7742658,-80.1936589,,,Florida
+19,5,Dynamite Duos,Café Nooner,2014-03-07,40.8020712,-124.1636729,4.0,$$,California
+19,5,Dynamite Duos,Café Nooner,2014-03-07,40.8020712,-124.1636729,4.0,$$,California
+19,6,Kickin It in Key West,Garbo's Grill,2014-03-14,24.5625566,-81.7724368,4.5,$$,Florida
+19,6,Kickin It in Key West,Garbo's Grill,2014-03-14,24.5625566,-81.7724368,4.5,$$,Florida
+19,6,Kickin It in Key West,Dj's Clam Shack,2014-03-14,24.5625566,-81.7724368,4.5,$$,Florida
+19,6,Kickin It in Key West,Badboy Burrito,2014-03-14,24.5625566,-81.7724368,4.0,$$,Florida
+19,7,From Meatballs to Lollipops,Maxwell's East Coast Eatery,2014-04-25,40.7596198,-111.8867975,3.5,$$,Utah
+19,7,From Meatballs to Lollipops,Tin Roof Grill,2014-04-25,40.5664878,-111.838904,3.5,$$,Utah
+19,7,From Meatballs to Lollipops,Latin House Grill,2014-04-25,25.7742658,-80.1936589,3.5,$$,Florida
+19,8,Cross Country Comfort Food,The Silver Star Café,2014-05-09,40.6460635,-111.4979741,4.0,$$,Utah
+19,8,Cross Country Comfort Food,Sammy's Bistro,2014-05-09,40.6460635,-111.4979741,4.0,$$,Utah
+19,8,Cross Country Comfort Food,Blue Collar,2014-05-09,25.7742658,-80.1936589,4.5,$$,Florida
+19,9,International Family Style,Artiso's,2014-05-16,40.7596198,-111.8867975,,,Utah
+19,9,International Family Style,Artiso's,2014-05-16,40.7596198,-111.8867975,,,Utah
+19,9,International Family Style,Boot's and Kimo's Homestyle Kitchen,2014-05-16,21.394833,-157.72989134661873,3.5,$$,Hawaii
+19,9,International Family Style,Oh Mai,2014-05-16,40.6688363,-111.8246557,,,Utah
+19,10,Island Flavor,Dean's Drive Inn,2014-05-23,21.418555,-157.804184,4.0,$$,Hawaii
+19,10,Island Flavor,The Alley Restaurant At Aiea Bowl,2014-05-23,21.3822222,-157.9336111,4.0,$$,Hawaii
+19,10,Island Flavor,The Alley Restaurant At Aiea Bowl,2014-05-23,21.3822222,-157.9336111,4.0,$$,Hawaii
+19,10,Island Flavor,Elena's Restaurant,2014-05-23,21.3866667,-158.0091667,,,Hawaii
+19,11,"Grillin, Chillin & Huli Huli Chicken",The Federal,2014-05-30,25.7742658,-80.1936589,,,Florida
+19,11,"Grillin, Chillin & Huli Huli Chicken",Mike's Huli Huli Chicken,2014-05-30,21.418555,-157.804184,3.5,$$,Hawaii
+19,11,"Grillin, Chillin & Huli Huli Chicken",Tamarindo Truck,2014-05-30,33.7500378,-117.8704931,4.0,$$,California
+19,11,"Grillin, Chillin & Huli Huli Chicken",Tamarindo Truck,2014-05-30,33.7500378,-117.8704931,4.0,$$,California
+19,12,Righteous Bites,Loulou's Griddle In The Middle,2014-06-06,36.2231079,-121.3877428,4.5,$$,California
+19,12,Righteous Bites,Fat Sal's Deli,2014-06-06,34.0536909,-118.2427666,,,California
+19,12,Righteous Bites,The Alley Restaurant At Aiea Bowl,2014-06-06,21.3822222,-157.9336111,4.0,$$,Hawaii
+19,12,Righteous Bites,The Alley Restaurant At Aiea Bowl,2014-06-06,21.3822222,-157.9336111,4.0,$$,Hawaii
+19,Special,Vegas Greats,Bachi Burger,2014-04-14,36.1672559,-115.1485163,4.0,$$,Nevada
+19,Special,Vegas Greats,Bachi Burger,2014-04-14,36.1672559,-115.1485163,4.0,$$,Nevada
+19,Special,Vegas Greats,John Mull's Road Kill Grill,2014-04-14,36.1672559,-115.1485163,4.5,$$,Nevada
+19,Special,Vegas Greats,Naked City Pizza,2014-04-14,36.1672559,-115.1485163,4.0,$$,Nevada
+19,Special,Vegas Greats,Naked City Pizza,2014-04-14,36.1672559,-115.1485163,4.0,$$,Nevada
+19,Special,Vegas Greats,Forte European Tapas Bar & Bistro,2014-04-14,36.1672559,-115.1485163,4.0,$$,Nevada
+19,Special,Vegas Greats,Forte European Tapas Bar & Bistro,2014-04-14,36.1672559,-115.1485163,4.0,$$,Nevada
+19,Special,Vegas Greats,UNLV,2014-04-14,36.1672559,-115.1485163,,,Nevada
+19,Special,Vegas Greats,UNLV,2014-04-14,36.1672559,-115.1485163,,,Nevada
+19,Special,Crazy for Chicken,Uncle Lou's,2014-04-18,35.1490215,-90.0516285,,,Tennessee
+19,Special,Crazy for Chicken,Uncle Lou's,2014-04-18,35.1490215,-90.0516285,,,Tennessee
+19,Special,Crazy for Chicken,Tortugas' Lie,2014-04-18,35.9573923,-75.624062,4.0,$$,North Carolina
+19,Special,Crazy for Chicken,Tortugas' Lie,2014-04-18,35.9573923,-75.624062,4.0,$$,North Carolina
+19,Special,Crazy for Chicken,90 Miles Cuban Cafe,2014-04-18,41.8755616,-87.6244212,4.0,$$,Illinois
+19,Special,Crazy for Chicken,90 Miles Cuban Cafe,2014-04-18,41.8755616,-87.6244212,4.0,$$,Illinois
+19,Special,Crazy for Chicken,Taco Taco Cafe,2014-04-18,29.4246002,-98.4951405,2.5,$,Texas
+19,Special,Crazy for Chicken,Rincon Criollo,2014-04-18,40.7498243,-73.7976337,4.5,$$,New York
+19,Special,Crazy for Chicken,Rincon Criollo,2014-04-18,40.7498243,-73.7976337,4.5,$$,New York
+19,Special,Crazy for Chicken,Tocabe American Indian Eatery,2014-04-18,39.7392364,-104.9848623,4.5,$,Colorado
+19,Special,Crazy for Chicken,Tocabe American Indian Eatery,2014-04-18,39.7392364,-104.9848623,4.5,$,Colorado
+19,Special,Crazy for Chicken,The Glass Onion,2014-04-18,32.7876012,-79.9402728,4.0,$$,South Carolina
+19,Special,Crazy for Chicken,The Glass Onion,2014-04-18,32.7876012,-79.9402728,4.0,$$,South Carolina
+19,Special,Crazy for Chicken,Opal Thai Food,2014-04-18,21.5935975,-158.1044696531065,4.0,$$,Hawaii
+19,Special,Crazy for Chicken,Opal Thai Food,2014-04-18,21.5935975,-158.1044696531065,4.0,$$,Hawaii
+19,Special,Crazy for Chicken,PotPie,2014-04-18,39.100105,-94.5781416,4.5,$$,Missouri
+19,Special,Crazy for Chicken,Smalley's Caribbean Barbeque,2014-04-18,45.0564041,-92.8134982,,,Minnesota
+19,Special,Crazy for Chicken,Smalley's Caribbean Barbeque,2014-04-18,45.0564041,-92.8134982,,,Minnesota
+19,Special,Grilling Greats,Tom's Bar-B-Q,2014-06-21,35.1490215,-90.0516285,4.0,$$,Tennessee
+19,Special,Grilling Greats,Tom's Bar-B-Q,2014-06-21,35.1490215,-90.0516285,4.0,$$,Tennessee
+19,Special,Grilling Greats,Luke's Inside Out,2014-06-21,30.2711286,-97.7436995,4.5,$$,Texas
+19,Special,Grilling Greats,Luke's Inside Out,2014-06-21,30.2711286,-97.7436995,4.5,$$,Texas
+19,Special,Grilling Greats,Caplansky's Deli,2014-06-21,43.6534817,-79.3839347,3.0,$$,Ontario
+19,Special,Grilling Greats,Danny's All-American Diner & Dairy Bar,2014-06-21,27.9477595,-82.458444,4.0,$,Florida
+19,Special,Grilling Greats,Louie Mueller's Barbecue,2014-06-21,32.2793121,-99.8812612,4.0,$$,Texas
+19,Special,Grilling Greats,Rick's Press Room Grill & Bar,2014-06-21,43.6086295,-116.392326,,,Idaho
+19,Special,Grilling Greats,Maple & Motor,2014-06-21,32.7762719,-96.7968559,4.0,$$,Texas
+19,Special,Grilling Greats,Maple & Motor,2014-06-21,32.7762719,-96.7968559,4.0,$$,Texas
+19,Special,Grilling Greats,Jawaiian Irie Jerk Restaurant,2014-06-21,21.304547,-157.8556764,,,Hawaii
+19,Special,Grilling Greats,Jawaiian Irie Jerk Restaurant,2014-06-21,21.304547,-157.8556764,,,Hawaii
+20,1,California Cruisin,Sabroso Mexican Grill,2014-09-05,33.7746292,-117.9463717,4.5,$$,California
+20,1,California Cruisin,Monterey Fish House,2014-09-05,36.2231079,-121.3877428,4.0,$$,California
+20,1,California Cruisin,Rutt's Hawaiian Cafe,2014-09-05,34.0536909,-118.2427666,4.0,$$,California
+20,2,Stuffed and Twisted,Sidewinder's American Grill,2014-09-12,43.479965,-110.761815,,,Wyoming
+20,2,Stuffed and Twisted,Rosine's Restaurant,2014-09-12,36.2231079,-121.3877428,4.0,$$,California
+20,2,Stuffed and Twisted,Blunch,2014-09-12,42.3602534,-71.0582912,4.5,$,Massachusetts
+20,3,"Old Standards, New Styles",Pinky G's Pizzeria,2014-09-19,43.479965,-110.761815,3.5,$$,Wyoming
+20,3,"Old Standards, New Styles",The Starling Diner,2014-09-19,33.7690164,-118.1916048,4.0,$$,California
+20,3,"Old Standards, New Styles",The Starling Diner,2014-09-19,33.7690164,-118.1916048,4.0,$$,California
+20,3,"Old Standards, New Styles",Cannery Row Brewing Company,2014-09-19,36.2231079,-121.3877428,3.5,$$,California
+20,4,From Standards to Standouts,Factory Gastrobar,2014-09-26,33.7690164,-118.1916048,,,California
+20,4,From Standards to Standouts,Pica's Mexican Taqueria,2014-09-26,43.479965,-110.761815,3.0,$$,Wyoming
+20,4,From Standards to Standouts,Little Napoli,2014-09-26,36.5552387,-121.9232879,4.0,$$,California
+20,5,All Day Dining,Wild Plum Cafe & Bistro,2014-10-03,36.2231079,-121.3877428,,,California
+20,5,All Day Dining,Nora's Fish Creek Inn,2014-10-03,43.489211,-110.90168087291438,4.0,$$,Wyoming
+20,5,All Day Dining,Tavern on 2,2014-10-03,33.7690164,-118.1916048,,,California
+20,5,All Day Dining,Tavern on 2,2014-10-03,33.7690164,-118.1916048,,,California
+21,1,Roadtrippin' in Beantown,Cafe Polonia,2014-09-05,42.3602534,-71.0582912,4.5,$$,Massachusetts
+21,1,Roadtrippin' in Beantown,Lone Star Taco Bar,2014-09-05,42.3554344,-71.1321271,4.0,$$,Massachusetts
+21,1,Roadtrippin' in Beantown,Deep Ellum,2014-09-05,42.3554344,-71.1321271,4.0,$$,Massachusetts
+21,2,Seriously Saucy,Saus,2014-09-12,42.3602534,-71.0582912,4.0,$$,Massachusetts
+21,2,Seriously Saucy,Cafe Genevieve,2014-09-12,43.479965,-110.761815,4.0,$$,Wyoming
+21,2,Seriously Saucy,Cafe Genevieve,2014-09-12,43.479965,-110.761815,4.0,$$,Wyoming
+21,2,Seriously Saucy,Melt Eclectic Cafe,2014-09-12,39.1014537,-84.5124602,,,Ohio
+21,3,Cross-Country Classics,Trina's Starlite Lounge,2014-09-19,42.3875968,-71.0994968,4.0,$$,Massachusetts
+21,3,Cross-Country Classics,Trina's Starlite Lounge,2014-09-19,42.3875968,-71.0994968,4.0,$$,Massachusetts
+21,3,Cross-Country Classics,Shorty's Pizza and Smoked Meat,2014-09-19,46.7207737,-92.1040796,3.5,$$,Wisconsin
+21,3,Cross-Country Classics,From Scratch Restaurant,2014-09-19,38.75511285,-121.35330894827251,4.0,$$,California
+21,4,Worldwide Flavorfest,Casa Razdora,2014-09-26,42.3602534,-71.0582912,4.5,$,Massachusetts
+21,4,Worldwide Flavorfest,Island Frydays,2014-09-26,39.1014537,-84.5124602,4.0,$,Ohio
+21,4,Worldwide Flavorfest,Pak's Green Corner,2014-09-26,46.7729322,-92.1251218,5.0,,Minnesota
+21,5,Small Town Standouts,Kounty Quarthouse,2014-10-03,46.6079956,-91.9835234,,,Wisconsin
+21,5,Small Town Standouts,Junkyard Extreme Burgers and Brats,2014-10-03,44.2191935,-123.2047857,4.5,$$,Oregon
+21,5,Small Town Standouts,Lotus Cafe,2014-10-03,43.479965,-110.761815,,,Wyoming
+21,6,One Street Wonders,Taste of Belgium,2014-10-10,39.1014537,-84.5124602,4.0,$$,Ohio
+21,6,One Street Wonders,Senate Pub,2014-10-10,39.1014537,-84.5124602,4.0,$$,Ohio
+21,6,One Street Wonders,Bakersfield OTR,2014-10-10,39.1014537,-84.5124602,4.5,$$,Ohio
+21,7,Old School Joints,Cornbread Cafe,2014-10-31,44.0505054,-123.0950506,4.5,$$,Oregon
+21,7,Old School Joints,Gannucci's Italian Market,2014-10-31,46.7729322,-92.1251218,4.0,$$,Minnesota
+21,7,Old School Joints,Delta Diner,2014-10-31,46.4731565,-91.2705137,4.5,$$,Wisconsin
+21,8,Meat In The Middle,The Sandwich League,2014-11-07,44.0505054,-123.0950506,4.0,,Oregon
+21,8,Meat In The Middle,The Brick House Cafe and Catering,2014-11-07,46.2080081,-91.2921295,4.0,$$,Wisconsin
+21,8,Meat In The Middle,The Brick House Cafe and Catering,2014-11-07,46.2080081,-91.2921295,4.0,$$,Wisconsin
+21,8,Meat In The Middle,Grano's Pasta Bar,2014-11-07,39.2908816,-76.610759,4.0,$$,Maryland
+21,9,Soup-Centric,Soup Nation,2014-11-14,44.0505054,-123.0950506,,,Oregon
+21,9,Soup-Centric,Slainte Irish Pub and Restaurant,2014-11-14,39.2908816,-76.610759,4.0,$$,Maryland
+21,9,Soup-Centric,Pho Lang Thang,2014-11-14,39.1014537,-84.5124602,4.0,$$,Ohio
+21,10,All Baltimore All The Time,Jimmy's Famous Seafood,2014-11-21,39.2908816,-76.610759,3.5,$$,Maryland
+21,10,All Baltimore All The Time,Clementine,2014-11-21,39.2908816,-76.610759,3.5,,Maryland
+21,10,All Baltimore All The Time,Johnny Rad's,2014-11-21,39.2908816,-76.610759,,,Maryland
+21,11,Chicken Chowfest,Patton's Restaurant & Catering,2014-11-28,41.5910641,-93.6037149,,,Iowa
+21,11,Chicken Chowfest,Papa's Soul Food Kitchen and BBQ,2014-11-28,44.0505054,-123.0950506,,,Oregon
+21,11,Chicken Chowfest,Swallow at the Hollow,2014-11-28,39.2908816,-76.610759,4.0,$$,Maryland
+21,12,Fresh Fish & Funky Chicken,Fisherman's Market,2014-12-05,44.0505054,-123.0950506,4.0,$$,Oregon
+21,12,Fresh Fish & Funky Chicken,Mi Patria Ecuadorian Restaurant,2014-12-05,41.5645337,-93.7595281,4.5,$$,Iowa
+21,12,Fresh Fish & Funky Chicken,Smokey D's BBQ,2014-12-05,41.5910641,-93.6037149,4.0,$$,Iowa
+21,13,Oldies But Goodies,Ernest & Son,2014-12-12,39.4101171,-74.3645906,,,New Jersey
+21,13,Oldies But Goodies,Oyster Creek Inn,2014-12-12,39.4920619,-74.4290379,3.5,$$,New Jersey
+21,13,Oldies But Goodies,George The Chili King Drive-In,2014-12-12,41.5910641,-93.6037149,3.5,$,Iowa
+21,14,Southern Spectacular,Farmer's Shed,2014-12-22,33.8986841,-81.275054,,,South Carolina
+21,14,Southern Spectacular,Pine State Biscuits,2014-12-22,45.5202471,-122.6741949,4.5,$,Oregon
+21,14,Southern Spectacular,Pine State Biscuits,2014-12-22,45.5202471,-122.6741949,4.5,$,Oregon
+21,14,Southern Spectacular,Sweetie Pie's,2014-12-22,38.6529545,-90.24111656024635,,,Missouri
+21,14,Southern Spectacular,Sweetie Pie's,2014-12-22,38.6529545,-90.24111656024635,,,Missouri
+21,14,Southern Spectacular,Rick's White Light Diner,2014-12-22,38.2009055,-84.8732836,4.0,$$,Kentucky
+21,14,Southern Spectacular,Rick's White Light Diner,2014-12-22,38.2009055,-84.8732836,4.0,$$,Kentucky
+21,14,Southern Spectacular,Zydeco's,2014-12-22,39.6128243,-86.37416,4.0,$$,Indiana
+21,14,Southern Spectacular,Zydeco's,2014-12-22,39.6128243,-86.37416,4.0,$$,Indiana
+21,15,Best of Breakfast,Ruth's Diner,2014-12-23,40.7596198,-111.8867975,4.0,$$,Utah
+21,15,Best of Breakfast,Ruth's Diner,2014-12-23,40.7596198,-111.8867975,4.0,$$,Utah
+21,15,Best of Breakfast,Lake Effect Diner,2014-12-23,42.8867166,-78.8783922,3.5,$$,New York
+21,15,Best of Breakfast,Lake Effect Diner,2014-12-23,42.8867166,-78.8783922,3.5,$$,New York
+21,15,Best of Breakfast,Mustache Bill's,2014-12-23,39.7576202,-74.1062466,4.0,$$,New Jersey
+21,15,Best of Breakfast,Mustache Bill's,2014-12-23,39.7576202,-74.1062466,4.0,$$,New Jersey
+21,15,Best of Breakfast,Al's Breakfast,2014-12-23,44.9772995,-93.2654692,4.0,$$,Minnesota
+21,15,Best of Breakfast,Al's Breakfast,2014-12-23,44.9772995,-93.2654692,4.0,$$,Minnesota
+21,15,Best of Breakfast,Al's Breakfast,2014-12-23,44.9772995,-93.2654692,4.0,$$,Minnesota
+21,15,Best of Breakfast,Louie & the Red Head Lady,2014-12-23,30.3582305,-90.0657477,,,Louisiana
+21,15,Best of Breakfast,Grampa's Bakery & Restaurant,2014-12-23,26.050783950000003,-80.14612392627231,3.5,$$,Florida
+21,15,Best of Breakfast,Grampa's Bakery & Restaurant,2014-12-23,26.050783950000003,-80.14612392627231,3.5,$$,Florida
+21,15,Best of Breakfast,W.O.W – Worth Our Weight,2014-12-23,38.4404925,-122.7141049,,,California
+21,15,Best of Breakfast,Schooner or Later,2014-12-23,33.7690164,-118.1916048,3.5,$$,California
+21,15,Best of Breakfast,Schooner or Later,2014-12-23,33.7690164,-118.1916048,3.5,$$,California
+21,15,Best of Breakfast,Matt's Big Breakfast,2014-12-23,33.4484367,-112.0741417,4.0,$$,Arizona
+21,15,Best of Breakfast,Matt's Big Breakfast,2014-12-23,33.4484367,-112.0741417,4.0,$$,Arizona
+21,16,Memorable Moms,Rigoletto Italian Bakery & Café,2014-12-24,36.8529841,-75.9774183,4.0,$$,Virginia
+21,16,Memorable Moms,Rigoletto Italian Bakery & Café,2014-12-24,36.8529841,-75.9774183,4.0,$$,Virginia
+21,16,Memorable Moms,Voula's Offshore Cafe,2014-12-24,47.6038321,-122.3300624,4.0,$$,Washington
+21,16,Memorable Moms,Nadine's Restaurant,2014-12-24,40.4416941,-79.9900861,,,Pennsylvania
+21,16,Memorable Moms,Nadine's Restaurant,2014-12-24,40.4416941,-79.9900861,,,Pennsylvania
+21,16,Memorable Moms,Kelly O's Diner,2014-12-24,40.4416941,-79.9900861,4.0,$$,Pennsylvania
+21,16,Memorable Moms,Kelly O's Diner,2014-12-24,40.4416941,-79.9900861,4.0,$$,Pennsylvania
+21,16,Memorable Moms,Monte Carlo Steak House,2014-12-24,35.0841034,-106.6509851,4.0,$$,New Mexico
+21,16,Memorable Moms,Monte Carlo Steak House,2014-12-24,35.0841034,-106.6509851,4.0,$$,New Mexico
+21,16,Memorable Moms,Emily's Lebanese Deli,2014-12-24,44.9772995,-93.2654692,4.0,$$,Minnesota
+21,17,Hometown Heroes,Eischen's Bar,2014-12-25,35.7258795,-97.9764411,4.0,$$,Oklahoma
+21,17,Hometown Heroes,Otto's Sausage,2014-12-25,45.5202471,-122.6741949,,,Oregon
+21,17,Hometown Heroes,South 21 Drive In,2014-12-25,35.2270869,-80.8431268,4.0,$,North Carolina
+21,17,Hometown Heroes,Kramarczuk Sausage Company,2014-12-25,44.9772995,-93.2654692,4.0,$$,Minnesota
+21,17,Hometown Heroes,Bob's Clam Hut,2014-12-25,43.088448,-70.736847,4.0,$$,Maine
+21,17,Hometown Heroes,Bob's Clam Hut,2014-12-25,43.088448,-70.736847,4.0,$$,Maine
+21,17,Hometown Heroes,Rainbow Drive-In,2014-12-25,21.304547,-157.8556764,4.0,$,Hawaii
+21,17,Hometown Heroes,Rainbow Drive-In,2014-12-25,21.304547,-157.8556764,4.0,$,Hawaii
+21,17,Hometown Heroes,Tommy's Joynt,2014-12-25,37.7790262,-122.4199061,4.0,$$,California
+21,17,Hometown Heroes,Tommy's Joynt,2014-12-25,37.7790262,-122.4199061,4.0,$$,California
+21,18,Pork Hall of Fame,Union Wood Shop,2014-12-26,42.735863,-83.4188304,4.5,$$,Michigan
+21,18,Pork Hall of Fame,Dough Pizzeria Napoletana,2014-12-26,29.4246002,-98.4951405,4.0,$$,Texas
+21,18,Pork Hall of Fame,Dough Pizzeria Napoletana,2014-12-26,29.4246002,-98.4951405,4.0,$$,Texas
+21,18,Pork Hall of Fame,Maria's Taco Express,2014-12-26,30.2711286,-97.7436995,4.0,$,Texas
+21,18,Pork Hall of Fame,Maria's Taco Express,2014-12-26,30.2711286,-97.7436995,4.0,$,Texas
+21,18,Pork Hall of Fame,Bar Gernika,2014-12-26,43.6166163,-116.200886,4.5,$$,Idaho
+21,18,Pork Hall of Fame,Bar Gernika,2014-12-26,43.6166163,-116.200886,4.5,$$,Idaho
+21,18,Pork Hall of Fame,Valencia Luncheria,2014-12-26,41.1175966,-73.4078968,4.0,$$,Connecticut
+21,18,Pork Hall of Fame,Valencia Luncheria,2014-12-26,41.1175966,-73.4078968,4.0,$$,Connecticut
+21,18,Pork Hall of Fame,Santa Cruz Diner,2014-12-26,37.050096,-121.9905908,2.5,$$,California
+21,18,Pork Hall of Fame,Santa Cruz Diner,2014-12-26,37.050096,-121.9905908,2.5,$$,California
+21,18,Pork Hall of Fame,North End Caffe,2014-12-26,33.8915985,-118.3951241,4.0,$$,California
+21,18,Pork Hall of Fame,The Oinkster,2014-12-26,34.1366877,-118.2076796,4.0,$$,California
+21,18,Pork Hall of Fame,The Oinkster,2014-12-26,34.1366877,-118.2076796,4.0,$$,California
+21,18,Pork Hall of Fame,Haus Murphy's,2014-12-26,33.5386858,-112.1859941,4.0,$$,Arizona
+21,18,Pork Hall of Fame,Haus Murphy's,2014-12-26,33.5386858,-112.1859941,4.0,$$,Arizona
+22,1,"Fish, Fries and Feet",Flying Mango,2015-01-16,41.5910641,-93.6037149,4.5,$$,Iowa
+22,1,"Fish, Fries and Feet",Kelsey & Kim's Southern Cafe,2015-01-16,39.3642852,-74.4229351,4.5,$$,New Jersey
+22,1,"Fish, Fries and Feet",Tacopocalypse,2015-01-16,41.5910641,-93.6037149,,,Iowa
+22,1,"Fish, Fries and Feet",Tacopocalypse,2015-01-16,41.5910641,-93.6037149,,,Iowa
+22,2,Cruisin' the Italian Countryside,Windows On The World (Ristorante WOW),2015-01-23,43.883179,10.7709533,,,Italy
+22,2,Cruisin' the Italian Countryside,Port Ellen Clan,2015-01-23,44.0176138,10.453151842727024,4.0,€€€,Italy
+22,2,Cruisin' the Italian Countryside,La Taverna dei Miracoli da Mangiafuoco,2015-01-23,43.4586541,11.1389204,4.5,€€,Italy
+22,3,Fillin' Up in Florence,La Cucina Del Garga,2015-01-30,43.7698712,11.2555757,4.5,€€€,Italy
+22,3,Fillin' Up in Florence,Il Gusta Pizza,2015-01-30,43.7698712,11.2555757,4.5,€,Italy
+22,3,Fillin' Up in Florence,Fratelli Briganti,2015-01-30,43.7698712,11.2555757,4.0,€€,Italy
+22,4,Arizona All Stars,Tom's Thumb Fresh Market,2015-02-06,33.4942189,-111.9260184,,,Arizona
+22,4,Arizona All Stars,Andreoli – Italian Grocer,2015-02-06,33.4942189,-111.9260184,4.0,$$,Arizona
+22,4,Arizona All Stars,Paradise Valley Burger Company,2015-02-06,33.4484367,-112.0741417,4.5,$,Arizona
+22,5,Roadtrippin',The Anchorage Tavern,2015-02-27,39.3176158,-74.594601,,,New Jersey
+22,5,Roadtrippin',Salty's BBQ & Catering,2015-02-27,35.3738712,-119.0194639,4.0,$$,California
+22,5,Roadtrippin',Sal's Gilbert Pizza,2015-02-27,33.3527632,-111.7890373,4.5,$$,Arizona
+22,6,From Atlantic to Pacific,KC Steakhouse,2015-03-06,35.3738712,-119.0194639,3.0,$$,California
+22,6,From Atlantic to Pacific,Grilled Cheese & Crab Cake Co.,2015-03-06,39.3176158,-74.594601,4.0,$$,New Jersey
+22,6,From Atlantic to Pacific,Mama Roomba,2015-03-06,35.3738712,-119.0194639,4.0,$$,California
+22,7,Globe Tasting,The Wild Thaiger,2015-03-13,33.4484367,-112.0741417,4.0,$$,Arizona
+22,7,Globe Tasting,Muertos Kitchen & Lounge,2015-03-13,35.3738712,-119.0194639,3.5,$$,California
+22,7,Globe Tasting,Carluccio's Coal Fired Pizza,2015-03-13,39.3703942,-74.5501546,4.0,$$,New Jersey
+22,8,"Sweet, Savory and Saucy",La Santisima Gourmet Taco Shop,2015-04-17,35.3738712,-119.0194639,,,California
+22,8,"Sweet, Savory and Saucy",Moo Creamery,2015-04-17,35.3738712,-119.0194639,4.0,$$,California
+22,8,"Sweet, Savory and Saucy",24th Street Cafe,2015-04-17,35.3738712,-119.0194639,4.0,$$,California
+22,9,To Bakersfield and Beyond,Athena's Greek Cafe & Bakery,2015-04-24,35.3738712,-119.0194639,4.0,$$,California
+22,9,To Bakersfield and Beyond,Pyrenees Cafe,2015-04-24,35.3738712,-119.0194639,3.5,$$,California
+22,9,To Bakersfield and Beyond,Asian Experience,2015-04-24,35.1424671,-119.4565078,4.0,$$,California
+22,10,Racing Through Charlotte,Pinky's Westside Grill,2015-05-01,35.2270869,-80.8431268,4.0,$,North Carolina
+22,10,Racing Through Charlotte,Pit Road Bar & Grill,2015-05-01,35.2270869,-80.8431268,4.0,$$,North Carolina
+22,10,Racing Through Charlotte,The Tin Kitchen Food Truck,2015-05-01,35.2270869,-80.8431268,,,North Carolina
+22,11,Indulgent Dishes,Krazy Fish,2015-05-22,35.2270869,-80.8431268,4.0,$$,North Carolina
+22,11,Indulgent Dishes,300 East,2015-05-22,35.2270869,-80.8431268,4.0,$$,North Carolina
+22,11,Indulgent Dishes,Biergarten,2015-05-22,34.0536909,-118.2427666,4.0,$$,California
+22,12,Griddles & Vittles,Guy Fieri's Kitchen and Bar,2015-05-29,36.1672559,-115.1485163,,,Nevada
+22,12,Griddles & Vittles,Those Guys Pies,2015-05-29,36.1672559,-115.1485163,4.0,$$,Nevada
+22,12,Griddles & Vittles,Chichen Itza Restaurant,2015-05-29,34.0536909,-118.2427666,4.5,$$,California
+22,13,Intercontinental Flavorfest,Intermezzo Pizzeria and Cafe,2015-06-05,35.2270869,-80.8431268,4.0,$$,North Carolina
+22,13,Intercontinental Flavorfest,The Little Jewel of New Orleans,2015-06-05,34.0536909,-118.2427666,4.0,$$,California
+22,13,Intercontinental Flavorfest,Cha Cha Chili,2015-06-05,34.0536909,-118.2427666,4.0,$,California
+22,Special,Food TruckAPalooza,Tamarindo Truck,2015-02-22,33.7500378,-117.8704931,4.0,$$,California
+22,Special,Food TruckAPalooza,Tamarindo Truck,2015-02-22,33.7500378,-117.8704931,4.0,$$,California
+22,Special,Food TruckAPalooza,Garbo's Grill,2015-02-22,24.5625566,-81.7724368,4.5,$$,Florida
+22,Special,Food TruckAPalooza,Garbo's Grill,2015-02-22,24.5625566,-81.7724368,4.5,$$,Florida
+22,Special,Food TruckAPalooza,The Grilled Cheeserie,2015-02-22,36.1622296,-86.7743531,4.0,$$,Tennessee
+22,Special,Food TruckAPalooza,The Grilled Cheeserie,2015-02-22,36.1622296,-86.7743531,4.0,$$,Tennessee
+22,Special,Food TruckAPalooza,Fresh Local Wild,2015-02-22,49.2608724,-123.1139529,,,British Columbia
+22,Special,Food TruckAPalooza,Fresh Local Wild,2015-02-22,49.2608724,-123.1139529,,,British Columbia
+22,Special,Food TruckAPalooza,Don Chow Tacos,2015-02-22,34.0536909,-118.2427666,,,California
+22,Special,Food TruckAPalooza,Don Chow Tacos,2015-02-22,34.0536909,-118.2427666,,,California
+22,Special,All Beefed Up,Terry's Turf Club,2015-03-09,39.1014537,-84.5124602,4.0,$$,Ohio
+22,Special,All Beefed Up,Terry's Turf Club,2015-03-09,39.1014537,-84.5124602,4.0,$$,Ohio
+22,Special,All Beefed Up,Smokin Guns BBQ & Catering,2015-03-09,39.100105,-94.5781416,3.5,$$,Missouri
+22,Special,All Beefed Up,Schellville Grill,2015-03-09,38.5110803,-122.8473388,3.5,$$,California
+22,Special,All Beefed Up,Paul's Coffee Shop,2015-03-09,33.7038145,-117.9627349,3.5,$$,California
+22,Special,All Beefed Up,Paul's Coffee Shop,2015-03-09,33.7038145,-117.9627349,3.5,$$,California
+23,1,A Bowlful of Soul,Mert's Heart & Soul,2015-07-17,35.2270869,-80.8431268,3.5,$$,North Carolina
+23,1,A Bowlful of Soul,Crepe Expectations,2015-07-17,36.1672559,-115.1485163,4.5,$,Nevada
+23,1,A Bowlful of Soul,Tubs Fine Chili,2015-07-17,34.0211224,-118.3964665,,,California
+23,2,Taste of Asia,DAE GEE Korean BBQ,2015-07-24,39.7392364,-104.9848623,3.5,$$,Colorado
+23,2,Taste of Asia,Fat Choy,2015-07-24,36.1672559,-115.1485163,4.0,$$,Nevada
+23,2,Taste of Asia,Osaka Japanese Bistro,2015-07-24,36.1672559,-115.1485163,4.0,$$,Nevada
+23,3,Tri-Continent Cuisine,Cafe Brazil,2015-07-31,39.7392364,-104.9848623,4.5,$$,Colorado
+23,3,Tri-Continent Cuisine,Biju's Little Curry Shop,2015-07-31,39.7392364,-104.9848623,4.0,$$,Colorado
+23,3,Tri-Continent Cuisine,Folk Art,2015-07-31,33.7490987,-84.3901849,,,Georgia
+23,4,From Biscuits to Briskets,Fox Bros Bar-B-Q,2015-08-07,33.7490987,-84.3901849,4.5,$$,Georgia
+23,4,From Biscuits to Briskets,Buttermilk Kitchen,2015-08-07,33.7490987,-84.3901849,4.5,$$,Georgia
+23,4,From Biscuits to Briskets,Restaurant 415,2015-08-07,40.5508527,-105.0668085,4.0,$$,Colorado
+23,5,Homeland Favorites,Joy Cafe,2015-08-28,33.7490987,-84.3901849,4.0,$$,Georgia
+23,5,Homeland Favorites,Axios Estiatorio,2015-08-28,39.7392364,-104.9848623,,,Colorado
+23,5,Homeland Favorites,Andale Taqueria & Mercado,2015-08-28,44.8766431,-93.2877877,4.5,$,Minnesota
+23,6,Name That Kitchen,The Lodge Sasquatch Kitchen,2015-09-11,40.5508527,-105.0668085,,,Colorado
+23,6,Name That Kitchen,Dana's Kitchen,2015-09-11,41.5514979,-70.6147519,4.0,$$,Massachusetts
+23,6,Name That Kitchen,Pickle Jar Kitchen,2015-09-11,41.5514979,-70.6147519,4.5,$$,Massachusetts
+23,7,East Coast Cruisin,Don Antonio by Starita,2015-09-23,40.7127281,-74.0060152,,,New York
+23,7,East Coast Cruisin,Louis Restaurant,2015-09-23,41.8239891,-71.4128343,3.5,$,Rhode Island
+23,7,East Coast Cruisin,Crazy Burger Cafe & Juice Bar,2015-09-23,41.4501021,-71.4495005,4.0,$$,Rhode Island
+23,7,East Coast Cruisin,The Dining Car & Market,2015-09-23,39.9527237,-75.1635262,3.5,$$,Pennsylvania
+23,8,Beef It Up,Driftwood Publick House & Oysteria,2015-09-18,41.9426657,-70.7618592,,,Massachusetts
+23,8,Beef It Up,The General Muir,2015-09-18,33.7490987,-84.3901849,4.0,$$,Georgia
+23,8,Beef It Up,Buster's on 28th,2015-09-18,44.9772995,-93.2654692,4.0,$$,Minnesota
+23,9,By Hand and By Fork,Parkside Market,2015-09-25,41.5514979,-70.6147519,,,Massachusetts
+23,9,By Hand and By Fork,Maria Empanada,2015-09-25,39.7392364,-104.9848623,4.5,$,Colorado
+23,9,By Hand and By Fork,Bayport BBQ,2015-09-25,45.0212648,-92.7813238,4.0,$$,Minnesota
+23,10,Finger Lickin' Food,Wrecking Bar Brewpub,2015-10-09,33.7490987,-84.3901849,4.0,$$,Georgia
+23,10,Finger Lickin' Food,Shucker's World Famous Raw Bar,2015-10-09,41.5239468,-70.6694293,,,Massachusetts
+23,10,Finger Lickin' Food,George and the Dragon,2015-10-09,44.9772995,-93.2654692,4.5,$$,Minnesota
+23,11,Bite of Britain,Grillstock,2015-10-16,51.5073219,-0.1276474,,,UK
+23,11,Bite of Britain,Bird of Smithfield,2015-10-16,51.5073219,-0.1276474,4.0,£££,UK
+23,11,Bite of Britain,Hook Camden Town,2015-10-16,51.5423045,-0.1395604,,,UK
+23,12,Piggin' Out,Pig Latin (Food Truck),2015-11-06,38.8339578,-104.8253485,4.5,$,Colorado
+23,12,Piggin' Out,North Bound Smokehouse and Brewpub,2015-11-06,44.9772995,-93.2654692,4.0,$$,Minnesota
+23,12,Piggin' Out,Unideli,2015-11-06,44.9772995,-93.2654692,3.5,$$,Minnesota
+23,13,Isle-Talian,The Blue-Eyed Crab Caribbean Grill & Rum Bar,2015-12-04,41.9426657,-70.7618592,3.5,$$,Massachusetts
+23,13,Isle-Talian,Parvicini's Italian Bistro,2015-12-04,38.8339578,-104.8253485,,,Colorado
+23,13,Isle-Talian,Rasta Pasta,2015-12-04,38.8339578,-104.8253485,4.0,$$,Colorado
+23,14,East-West Flavorfest,Mountain Shadows Restaurant,2015-12-18,38.8339578,-104.8253485,4.5,$,Colorado
+23,14,East-West Flavorfest,Toki Underground,2015-12-18,38.8948932,-77.0365529,4.0,$$,DC
+23,14,East-West Flavorfest,Piccini Wood Fired Brick Oven Pizza,2015-12-18,39.2776156,-74.5746001,3.5,$$,New Jersey
+23,Special,Amazing Appetizers,Queen's Comfort,2015-10-23,40.7720145,-73.9302673,4.0,$$,New York
+23,Special,Amazing Appetizers,Queen's Comfort,2015-10-23,40.7720145,-73.9302673,4.0,$$,New York
+23,Special,Amazing Appetizers,Highland Tavern,2015-10-23,39.7392364,-104.9848623,4.0,$$,Colorado
+23,Special,Amazing Appetizers,Highland Tavern,2015-10-23,39.7392364,-104.9848623,4.0,$$,Colorado
+23,Special,Amazing Appetizers,Boulevard Diner,2015-10-23,39.2574114,-76.5236745,3.5,$$,Colorado
+23,Special,Amazing Appetizers,Boulevard Diner,2015-10-23,39.2574114,-76.5236745,3.5,$$,Maryland
+23,Special,Amazing Appetizers,Clanton's Cafe,2015-10-23,36.6387949,-95.1543297,4.0,$,Oklahoma
+23,Special,Amazing Appetizers,10th Ave Burrito Co,2015-10-23,40.1784471,-74.0218037,3.0,$$,New Jersey
+23,Special,Amazing Appetizers,BBQ Shack,2015-10-23,38.5723318,-94.8786484,,,Kansas
+23,Special,Amazing Appetizers,BBQ Shack,2015-10-23,38.5723318,-94.8786484,,,Kansas
+23,Special,Amazing Appetizers,The Highlander,2015-10-23,33.7490987,-84.3901849,3.5,$$,Georgia
+23,Special,Amazing Appetizers,The Highlander,2015-10-23,33.7490987,-84.3901849,3.5,$$,Georgia
+23,Special,Amazing Appetizers,Scully's Tavern,2015-10-23,25.7742658,-80.1936589,4.0,$$,Florida
+23,Special,Amazing Appetizers,Scully's Tavern,2015-10-23,25.7742658,-80.1936589,4.0,$$,Florida
+23,Special,Ultimate Turkey Fest,Golden Crown Restaurant,2015-11-19,35.0841034,-106.6509851,4.5,$,New Mexico
+23,Special,Ultimate Turkey Fest,Bocadillas: Slow Roasted Sandwich Shop,2015-11-19,35.0841034,-106.6509851,,,New Mexico
+23,Special,Ultimate Turkey Fest,Funk N Waffles,2015-11-19,43.0481221,-76.1474244,3.5,$$,New York
+23,Special,Ultimate Turkey Fest,Supino Pizzeria,2015-11-19,42.3315509,-83.0466403,4.5,$$,Michigan
+23,Special,Ultimate Turkey Fest,Supino Pizzeria,2015-11-19,42.3315509,-83.0466403,4.5,$$,Michigan
+23,Special,Ultimate Turkey Fest,Comet Cafe,2015-11-19,43.0349931,-87.922497,4.0,$$,Wisconsin
+23,Special,Ultimate Turkey Fest,Mike's City Diner,2015-11-19,42.3602534,-71.0582912,4.0,$$,Massachusetts
+23,Special,Ultimate Turkey Fest,Mike's City Diner,2015-11-19,42.3602534,-71.0582912,4.0,$$,Massachusetts
+23,Special,Ultimate Turkey Fest,Sammy's Food Services & Deli,2015-11-19,29.9499323,-90.0701156,4.0,$$,Louisiana
+23,Special,Ultimate Turkey Fest,Alpine Steakhouse,2015-11-19,27.3364347,-82.5306527,3.5,$$,Florida
+23,Special,Ultimate Turkey Fest,Alpine Steakhouse,2015-11-19,27.3364347,-82.5306527,3.5,$$,Florida
+23,Special,Ultimate Turkey Fest,Thee Pitts Again,2015-11-19,33.5386858,-112.1859941,3.0,$$,Arizona
+23,Special,Ultimate Turkey Fest,Thee Pitts Again,2015-11-19,33.5386858,-112.1859941,4.0,$$,Colorado
+23,Special,Extra Helpings,The Brick House Cafe and Catering,2015-11-27,46.2080081,-91.2921295,4.0,$$,Wisconsin
+23,Special,Extra Helpings,The Brick House Cafe and Catering,2015-11-27,46.2080081,-91.2921295,4.0,$$,Wisconsin
+23,Special,Extra Helpings,Cafe Genevieve,2015-11-27,43.479965,-110.761815,4.0,$$,Wyoming
+23,Special,Extra Helpings,Cafe Genevieve,2015-11-27,43.479965,-110.761815,4.0,$$,Wyoming
+23,Special,Extra Helpings,Tavern on 2,2015-11-27,33.7690164,-118.1916048,,,California
+23,Special,Extra Helpings,Tavern on 2,2015-11-27,33.7690164,-118.1916048,,,California
+23,Special,Extra Helpings,DJ's Clam Shack,2015-11-27,24.5625566,-81.7724368,4.5,$$,Florida
+23,Special,Extra Helpings,Café Nooner,2015-11-27,40.8020712,-124.1636729,4.0,$$,California
+23,Special,Extra Helpings,Café Nooner,2015-11-27,40.8020712,-124.1636729,4.0,$$,California
+23,Special,Extra Helpings,Sakaya Kitchen,2015-11-27,25.7742658,-80.1936589,3.5,$$,Florida
+23,Special,Extra Helpings,Sakaya Kitchen,2015-11-27,25.7742658,-80.1936589,3.5,$$,Florida
+23,Special,Extra Helpings,Sakaya Kitchen,2015-11-27,25.7742658,-80.1936589,3.5,$$,Florida
+23,Special,Extra Helpings,Bless My Soul,2015-11-27,40.8020712,-124.1636729,,,California
+23,Special,Extra Helpings,Bless My Soul,2015-11-27,40.8020712,-124.1636729,,,California
+23,Special,Extra Helpings,Brindle Room,2015-11-27,40.7127281,-74.0060152,4.0,$$,New York
+23,Special,Extra Helpings,Brindle Room,2015-11-27,40.7127281,-74.0060152,4.0,$$,New York
+23,Special,Extra Helpings,Brick & Fire,2015-11-27,40.8020712,-124.1636729,4.5,$$,California
+23,Special,Extra Helpings,Brick & Fire,2015-11-27,40.8020712,-124.1636729,4.5,$$,California
+23,Special,Extra Helpings,Black Tree,2015-11-27,40.7127281,-74.0060152,,,New York
+23,Special,Extra Helpings,Black Tree,2015-11-27,40.7127281,-74.0060152,,,New York
+23,Special,Extra Helpings,Paul's Live From New York,2015-11-27,40.8020712,-124.1636729,3.5,$,California
+23,Special,Extra Helpings,Paul's Live From New York,2015-11-27,40.8020712,-124.1636729,3.5,$,California
+23,Special,Holiday Hoopla,Mas Tacos,2015-12-11,36.1622296,-86.7743531,4.5,$,Tennessee
+23,Special,Holiday Hoopla,Center Point Pit Barbecue,2015-12-11,36.3049177,-86.621443,3.5,$,Tennessee
+23,Special,Holiday Hoopla,Center Point Pit Barbecue,2015-12-11,36.3049177,-86.621443,3.5,$,Tennessee
+23,Special,Holiday Hoopla,Miller's East Coast Deli,2015-12-11,37.7790262,-122.4199061,3.5,$$,California
+23,Special,Holiday Hoopla,Miller's East Coast Deli,2015-12-11,37.7790262,-122.4199061,3.5,$$,California
+23,Special,Holiday Hoopla,Flakowitz of Boynton,2015-12-11,26.5256179,-80.0666026,3.0,$$,Florida
+23,Special,Holiday Hoopla,The Bagel Delicatessen & Restaurant,2015-12-11,39.7392364,-104.9848623,,,Colorado
+23,Special,Holiday Hoopla,The Bagel Delicatessen & Restaurant,2015-12-11,39.7392364,-104.9848623,,,Colorado
+23,Special,Holiday Hoopla,At Last Cafe,2015-12-11,33.7690164,-118.1916048,,,California
+23,Special,Holiday Hoopla,Big Daddy's BBQ & Banquet,2015-12-11,64.837845,-147.716675,,,Alaska
+24,1,All Kinds of Meat,Alewife Baltimore,2016-01-01,39.2908816,-76.610759,,,Maryland
+24,1,All Kinds of Meat,Carving Room,2016-01-01,38.8948932,-77.0365529,4.0,$$,DC
+24,1,All Kinds of Meat,Spice Island Grill,2016-01-01,38.8339578,-104.8253485,4.0,$$,Colorado
+24,2,Triple D All Stars,Tacopocalypse,2016-01-03,41.5910641,-93.6037149,,,Iowa
+24,2,Triple D All Stars,Tacopocalypse,2016-01-03,41.5910641,-93.6037149,,,Iowa
+24,2,Triple D All Stars,Artiso's,2016-01-03,40.7596198,-111.8867975,,,Utah
+24,2,Triple D All Stars,Artiso's,2016-01-03,40.7596198,-111.8867975,,,Utah
+24,2,Triple D All Stars,Sakaya Kitchen,2016-01-03,25.7742658,-80.1936589,3.5,$$,Florida
+24,2,Triple D All Stars,Sakaya Kitchen,2016-01-03,25.7742658,-80.1936589,3.5,$$,Florida
+24,2,Triple D All Stars,Sakaya Kitchen,2016-01-03,25.7742658,-80.1936589,3.5,$$,Florida
+24,2,Triple D All Stars,Chef Lou's Westside Drive-In,2016-01-03,43.6166163,-116.200886,3.5,$,Idaho
+24,2,Triple D All Stars,Chef Lou's Westside Drive-In,2016-01-03,43.6166163,-116.200886,3.5,$,Idaho
+24,2,Triple D All Stars,Pagoda Restaurant,2016-01-03,64.750997,-147.349319,4.0,$$,Alaska
+24,3,Family Legacies,Miss Shirley's Cafe,2016-01-15,39.2908816,-76.610759,4.0,$$,Maryland
+24,3,Family Legacies,Sam's Rialto Bar & Grill,2016-01-15,39.3898388,-74.5240422,,,New Jersey
+24,3,Family Legacies,Front Range Barbeque,2016-01-15,38.8339578,-104.8253485,4.0,$$,Colorado
+24,4,Rockin' New Orleans,The Creole Creamery,2016-01-20,29.9499323,-90.0701156,4.5,$,Louisiana
+24,4,Rockin' New Orleans,The Creole Creamery,2016-01-20,29.9499323,-90.0701156,4.5,$,Louisiana
+24,4,Rockin' New Orleans,The Joint,2016-01-20,29.9499323,-90.0701156,4.5,$$,Louisiana
+24,4,Rockin' New Orleans,The Joint,2016-01-20,29.9499323,-90.0701156,4.5,$$,Louisiana
+24,4,Rockin' New Orleans,Surrey's Cafe,2016-01-20,29.9499323,-90.0701156,,,Louisiana
+24,4,Rockin' New Orleans,Parasol's Restaurant & Bar,2016-01-20,29.9499323,-90.0701156,4.0,$$,Louisiana
+24,4,Rockin' New Orleans,Joey K's Restaurant & Bar,2016-01-20,29.9499323,-90.0701156,4.0,$$,Louisiana
+24,4,Rockin' New Orleans,Joey K's Restaurant & Bar,2016-01-20,29.9499323,-90.0701156,4.0,$$,Louisiana
+24,5,Between the Bread,Skirted Heiffer,2016-01-22,38.8339578,-104.8253485,4.0,$,Colorado
+24,5,Between the Bread,Bub and Pop's,2016-01-22,38.8948932,-77.0365529,4.5,$$,DC
+24,5,Between the Bread,Vagabond Kitchen & Tap House,2016-01-22,39.3642852,-74.4229351,4.0,$$,New Jersey
+24,6,Comfort Food Mash-Up,Trina's Starlite Lounge,2016-02-03,42.3875968,-71.0994968,4.0,$$,Massachusetts
+24,6,Comfort Food Mash-Up,Trina's Starlite Lounge,2016-02-03,42.3875968,-71.0994968,4.0,$$,Massachusetts
+24,6,Comfort Food Mash-Up,The Starling Diner,2016-02-03,33.7690164,-118.1916048,4.0,$$,California
+24,6,Comfort Food Mash-Up,The Starling Diner,2016-02-03,33.7690164,-118.1916048,4.0,$$,California
+24,6,Comfort Food Mash-Up,The Alley Restaurant at Aiea Bowl,2016-02-03,21.3822222,-157.9336111,4.0,$$,Hawaii
+24,6,Comfort Food Mash-Up,Frank's Noodle House,2016-02-03,45.5202471,-122.6741949,3.5,$$,Oregon
+24,6,Comfort Food Mash-Up,Frank's Noodle House,2016-02-03,45.5202471,-122.6741949,3.5,$$,Oregon
+24,6,Comfort Food Mash-Up,Gold 'N Silver Inn,2016-02-03,39.5261206,-119.8126581,3.5,$$,Nevada
+24,6,Comfort Food Mash-Up,Ramona Cafe,2016-02-03,33.0417112,-116.8680821,3.0,$$,California
+24,7,Smoke and Seafood,The Fish House,2016-03-11,25.091338,-80.46777414781022,4.0,$$,Florida
+24,7,Smoke and Seafood,Islamorada Shrimp Shack,2016-03-11,24.9242995,-80.6278404,4.0,$$,Florida
+24,7,Smoke and Seafood,The Smoking Swine,2016-03-11,39.2908816,-76.610759,4.5,$$,Maryland
+24,8,International Appeal,Digiorgio's Cafe Largo,2016-03-25,25.091338,-80.46777414781022,4.0,$$,Florida
+24,8,International Appeal,El Nuevo Frutilandia,2016-03-25,37.7790262,-122.4199061,4.0,$$,California
+24,8,International Appeal,Green Papaya Food Truck,2016-03-25,37.9577016,-121.2907796,4.0,$,California
+24,9,"Tacos, Turtles, and Tri-tip",Green Turtle Inn,2016-04-08,24.9242995,-80.6278404,4.0,$$,Florida
+24,9,"Tacos, Turtles, and Tri-tip",Midtown Creperie,2016-04-08,37.9577016,-121.2907796,3.5,$$,California
+24,9,"Tacos, Turtles, and Tri-tip",Cosecha Cafe,2016-04-08,37.8044557,-122.2713563,4.0,$$,California
+24,10,Succulent Sandwiches,Clove and Hoof,2016-04-15,37.8044557,-122.2713563,4.0,$$,California
+24,10,Succulent Sandwiches,Food Fix Truck,2016-04-15,37.6390972,-120.9968782,4.5,$$,California
+24,10,Succulent Sandwiches,Pilot House Marina & Restaurant,2016-04-15,25.091338,-80.46777414781022,3.5,$$,Florida
+24,11,Hot Meat and Cool Veg,Souley Vegan,2016-04-22,37.8044557,-122.2713563,4.0,$$,California
+24,11,Hot Meat and Cool Veg,Bauer's 66 1/2,2016-04-22,37.6390972,-120.9968782,4.5,$$,California
+24,11,Hot Meat and Cool Veg,M.E.A.T. Eatery and Tap Room,2016-04-22,24.9242995,-80.6278404,4.5,$$,Florida
+24,12,South Beach Sizzle,Taquiza,2016-05-06,25.7929198,-80.1353006,4.0,$$,Florida
+24,12,South Beach Sizzle,Lou's Beer Garden,2016-05-06,25.7929198,-80.1353006,4.0,$$,Florida
+24,12,South Beach Sizzle,Hofbrau Beer Hall,2016-05-06,25.7929198,-80.1353006,,,Florida
+24,13,"Smoked, Grilled, and Fried",Commonwealth,2016-05-26,37.6390972,-120.9968782,4.0,$$,California
+24,13,"Smoked, Grilled, and Fried",Miami Smokers,2016-05-26,25.7742658,-80.1936589,,,Florida
+24,13,"Smoked, Grilled, and Fried",Smitty's Wings & Things,2016-05-26,37.9577016,-121.2907796,4.0,$$,California
+24,14,Cruisin' in Cuba,El Figaro,2016-06-03,23.135305,-82.3589631,,,Cuba
+24,14,Cruisin' in Cuba,Nazdarovie,2016-06-03,23.135305,-82.3589631,,,Cuba
+24,14,Cruisin' in Cuba,Restaurante Fonda Paladar la Paila,2016-06-03,23.135305,-82.3589631,,,Cuba
+24,15,Havana Hot Spots,Al Carbon,2016-06-10,23.135305,-82.3589631,,,Cuba
+24,15,Havana Hot Spots,La Catedral,2016-06-10,23.135305,-82.3589631,,,Cuba
+24,15,Havana Hot Spots,Casa Abel,2016-06-10,23.135305,-82.3589631,,,Cuba
+24,16,Great Gear,Gian's Deli,2016-06-17,37.9577016,-121.2907796,4.0,$,California
+24,16,Great Gear,The Outrigger Pizza Company,2016-06-17,20.7476261,-156.4549898,4.5,$$,Hawaii
+24,16,Great Gear,CatHead's BBQ,2016-06-17,37.7790262,-122.4199061,4.0,$$,California
+25,1,Soakin' Up Maui,Da Kitchen,2016-07-01,20.8747708,-156.4529829390927,4.0,$$,Hawaii
+25,1,Soakin' Up Maui,Fat Daddy's Smokehouse,2016-07-01,20.7476261,-156.4549898,4.0,$$,Hawaii
+25,1,Soakin' Up Maui,Like Poke,2016-07-01,20.8747708,-156.4529829390927,4.5,$$,Hawaii
+25,2,"Asia, Africa and India",Radio Africa & Kitchen,2016-07-08,37.7790262,-122.4199061,4.5,$$,California
+25,2,"Asia, Africa and India",Belly & Snout,2016-07-08,34.0536909,-118.2427666,3.5,,California
+25,2,"Asia, Africa and India",Gandhi Mahal Restaurant,2016-07-08,44.9772995,-93.2654692,,,Minnesota
+25,3,"Creole, Cold Cuts and Crepes",Star Noodle,2016-07-15,20.8738769,-156.6776784,4.0,$$,Hawaii
+25,3,"Creole, Cold Cuts and Crepes",The Herbivorous Butcher,2016-07-15,44.9772995,-93.2654692,4.5,$$,Minnesota
+25,3,"Creole, Cold Cuts and Crepes",Harold & Belle's,2016-07-15,34.0536909,-118.2427666,3.5,$$,California
+25,4,Chew and Brew,Surly Brewing Company,2016-08-05,44.9772995,-93.2654692,4.0,$$,Minnesota
+25,4,Chew and Brew,The Local,2016-08-05,25.72149,-80.2683838,,,Florida
+25,4,Chew and Brew,Delancey Pizzeria & Bar,2016-08-05,34.0980031,-118.3295232,,,California
+25,5,Global Greats,The Original Barone's Famous Italian,2016-08-12,34.1826379,-118.4138666,,,California
+25,5,Global Greats,Miso Phat Sushi,2016-08-12,20.7476261,-156.4549898,4.5,$$,Hawaii
+25,5,Global Greats,Holy Land,2016-08-12,44.9772995,-93.2654692,4.0,$$,Minnesota
+25,6,"Sausage, Seafood and Shawarma",Street Food 360,2016-09-09,43.0717552,-70.7625532,4.0,,New Hampshire
+25,6,"Sausage, Seafood and Shawarma",Ivan's Cookhouse,2016-09-09,25.9331488,-80.1625463,3.5,$$,Florida
+25,6,"Sausage, Seafood and Shawarma",Red Wagon Pizza Company,2016-09-09,44.9772995,-93.2654692,4.0,$$,Minnesota
+25,7,Cosmopolitan Comfort,Azla Ethiopian Vegan,2016-09-16,34.0536909,-118.2427666,,,California
+25,7,Cosmopolitan Comfort,Prairie Dogs,2016-09-16,44.9772995,-93.2654692,,,Minnesota
+25,7,Cosmopolitan Comfort,Moxy,2016-09-16,43.0717552,-70.7625532,4.0,$$,New Hampshire
+25,8,"Burgers, Buns and Bagels",The Kitchen,2016-10-07,43.0717552,-70.7625532,,,New Hampshire
+25,8,"Burgers, Buns and Bagels",The Kitchen,2016-10-07,43.0717552,-70.7625532,5.0,,California
+25,8,"Burgers, Buns and Bagels",Bagel Street,2016-10-07,40.3329935,-74.58525122985436,4.0,$,New Jersey
+25,8,"Burgers, Buns and Bagels",The Bun Shop,2016-10-07,34.0536909,-118.2427666,4.0,$,California
+25,9,"Big Food, Small Towns",Vincentown Diner,2016-10-14,39.9340023,-74.7484938,3.5,$$,New Jersey
+25,9,"Big Food, Small Towns",Rocky Hill Inn,2016-10-14,40.3998283,-74.6343244,,,New Jersey
+25,9,"Big Food, Small Towns",Tuckaway Tavern & Butchery,2016-10-14,43.0361961,-71.1833951,4.0,$$,New Hampshire
+25,10,From Port to Port,Vida Cantina,2016-11-04,43.0717552,-70.7625532,4.0,$$,New Hampshire
+25,10,From Port to Port,Ataula,2016-11-04,45.5202471,-122.6741949,4.5,$$,Oregon
+25,10,From Port to Port,P's & Q's Market,2016-11-04,45.5202471,-122.6741949,4.5,$$,Oregon
+25,11,Turkey-giving,45 Market Street Bakery & Cafe,2016-11-18,43.2513865,-70.8903607,4.5,$$,New Hampshire
+25,11,Turkey-giving,The Table Cafe,2016-11-18,38.2542376,-85.759407,4.5,$,Kentucky
+25,11,Turkey-giving,Jammin' Crepes,2016-11-18,40.3492744,-74.6592958,4.0,$$,New Jersey
+25,12,"Brunch, Bologna and Burgers",Gralehaus,2016-12-02,38.2542376,-85.759407,4.5,$$,Kentucky
+25,12,"Brunch, Bologna and Burgers",The Original,2016-12-02,45.5202471,-122.6741949,3.5,$$,Oregon
+25,12,"Brunch, Bologna and Burgers",Grind Burger Kitchen,2016-12-02,38.2542376,-85.759407,4.0,$$,Kentucky
+25,13,Carnivore Creations,"Momma''s Mustard, Pickles & BBQ",2016-12-23,38.2542376,-85.759407,4.0,$$,Kentucky
+25,13,Carnivore Creations,Jersey Girl Cafe,2016-12-23,40.2041625,-74.67932438979872,4.0,$,New Jersey
+25,13,Carnivore Creations,Tails & Trotters,2016-12-23,45.5202471,-122.6741949,4.5,$$,Oregon
+26,1,Belly Up to Barcelona,Cal Boter,2017-01-06,41.3828939,2.1774322,4.5,€€,Spain
+26,1,Belly Up to Barcelona,Can Conesa,2017-01-06,41.3828939,2.1774322,3.0,,Spain
+26,1,Belly Up to Barcelona,Pulperia A Gudiña,2017-01-06,41.3828939,2.1774322,4.0,€€,Spain
+26,2,A Sampling of Spain,Can Vilaro,2017-01-13,41.3828939,2.1774322,4.0,,Spain
+26,2,A Sampling of Spain,El Pacifico,2017-01-13,41.3828939,2.1774322,3.5,€€,Spain
+26,2,A Sampling of Spain,Bar Morryssom,2017-01-13,41.3828939,2.1774322,4.0,€,Spain
+26,3,Mega Mouthfuls,The Seafood Lady,2017-01-20,38.2542376,-85.759407,3.5,$$,Kentucky
+26,3,Mega Mouthfuls,Dolce & Clemente's,2017-01-20,40.223825250000004,-74.58928428901505,4.5,$$,New Jersey
+26,3,Mega Mouthfuls,Matt's BBQ,2017-01-20,45.5202471,-122.6741949,4.5,$$,Oregon
+26,4,"Swiss, Sandwiches and Sausage",Swiss Hibiscus,2017-02-10,45.5202471,-122.6741949,5.0,$$,Oregon
+26,4,"Swiss, Sandwiches and Sausage",Papi Queso Food Truck,2017-02-10,35.2270869,-80.8431268,,,North Carolina
+26,4,"Swiss, Sandwiches and Sausage",JJ's Red Hots,2017-02-10,35.2270869,-80.8431268,4.0,$,North Carolina
+26,5,"Beef, Lamb and Pig",Irish Rover,2017-02-17,38.2542376,-85.759407,4.0,$$,Kentucky
+26,5,"Beef, Lamb and Pig",The Improper Pig,2017-02-17,35.2270869,-80.8431268,4.0,$$,North Carolina
+26,5,"Beef, Lamb and Pig",Bang Bang Burgers,2017-02-17,35.2270869,-80.8431268,4.5,$$,North Carolina
+26,6,Kickin' It in Cancun,Guy Fieri's Playa del Carmen Kitchen & Bar,2017-03-17,20.6308643,-87.0779503,,,Mexico
+26,6,Kickin' It in Cancun,Mora Mora,2017-03-17,21.1617854,-86.8510468,4.5,$$,Mexico
+26,6,Kickin' It in Cancun,El Rincon de los Antojos,2017-03-17,21.1617854,-86.8510468,4.0,$,Mexico
+26,7,Not Your Typical Joints,Q-Shi,2017-03-24,31.8160381,-99.5120986,,,Texas
+26,7,Not Your Typical Joints,Fud at Salud,2017-03-24,35.2270869,-80.8431268,,,North Carolina
+26,7,Not Your Typical Joints,El Fish Fritanga,2017-03-24,21.1617854,-86.8510468,4.5,$$,Mexico
+26,8,From North to South America,Pinchez Tacos,2017-03-31,21.1617854,-86.8510468,5.0,$,Mexico
+26,8,From North to South America,Heist Brewery,2017-03-31,35.2270869,-80.8431268,3.5,$$,North Carolina
+26,8,From North to South America,The Original Marini's Empanada House,2017-03-31,29.7589382,-95.3676974,4.5,$,Texas
+26,9,Goin' International,Cafe Lili,2017-04-07,29.7589382,-95.3676974,4.0,$$,Texas
+26,9,Goin' International,The Surfin' Burrito,2017-04-07,21.1617854,-86.8510468,4.0,$$,Mexico
+26,9,Goin' International,Cool Runnings Jamaican Grill,2017-04-07,29.7589382,-95.3676974,4.0,$$,Texas
+26,10,Wonder Women,The Meatball Stoppe,2017-04-21,28.5421109,-81.3790304,4.5,$$,Florida
+26,10,Wonder Women,Se7en Bites Bakeshop,2017-04-21,28.5421109,-81.3790304,4.5,$$,Florida
+26,10,Wonder Women,Irma's Original,2017-04-21,29.7589382,-95.3676974,3.0,$$,Texas
+26,11,Multicultural Cooking,Willie's Pinchos,2017-04-28,28.5421109,-81.3790304,4.5,$,Florida
+26,11,Multicultural Cooking,The Pastrami Project,2017-04-28,28.5421109,-81.3790304,4.5,$,Florida
+26,11,Multicultural Cooking,Cuchara Restaurant,2017-04-28,29.7589382,-95.3676974,,,Texas
+26,12,"Turkey, Taters and Dogs",Mrs. Potato,2017-05-12,28.5421109,-81.3790304,4.5,$$,Florida
+26,12,"Turkey, Taters and Dogs",Fat One's Hot Dogs and Italian Ice,2017-05-12,28.5421109,-81.3790304,3.5,,Florida
+26,12,"Turkey, Taters and Dogs",Sherman's Deli & Bakery,2017-05-12,33.8246269,-116.540303,4.0,$$,California
+26,13,"Burgers, Beef and Barbecue",HoBo's BBQ,2017-05-26,33.4946353,-117.1473661,4.0,$$,California
+26,13,"Burgers, Beef and Barbecue",Saigon Noodle and Grill,2017-05-26,28.5421109,-81.3790304,4.5,$$,Florida
+26,13,"Burgers, Beef and Barbecue",Grill-a-Burger,2017-05-26,33.7288179,-116.3825711,4.0,$$,California
+26,14,Chicken Trifecta,Fleetwood's on Front St.,2017-06-09,20.8738769,-156.6776784,,,Hawaii
+26,14,Chicken Trifecta,Thai Mee Up,2017-06-09,20.8747708,-156.4529829390927,4.5,$$,Hawaii
+26,14,Chicken Trifecta,Frankinbun,2017-06-09,33.8246269,-116.540303,3.5,$,California
+26,15,From Spicy to Icy,Zobo & Meester's,2017-06-16,33.822998049999995,-116.4668702427116,4.5,$$,California
+26,15,From Spicy to Icy,Down the Hatch Maui,2017-06-16,20.8738769,-156.6776784,4.5,$$,Hawaii
+26,15,From Spicy to Icy,The Dirty Buffalo,2017-06-16,36.8462923,-76.2929252,4.0,$$,Virginia
+26,16,Island and Desert,Wilma & Frieda,2017-06-30,33.7288179,-116.3825711,4.5,$$,California
+26,16,Island and Desert,Carib Shack,2017-06-30,36.8529841,-75.9774183,4.5,$,Virginia
+26,16,Island and Desert,Maui Brick Oven,2017-06-30,20.7476261,-156.4549898,4.0,$$,Hawaii
+27,1,"Sandwiches, Spaetzle and Sticky Wings",Alkaline,2017-07-07,36.8462923,-76.2929252,4.0,$$,Virginia
+27,1,"Sandwiches, Spaetzle and Sticky Wings",Pendulum Fine Meats,2017-07-07,36.8462923,-76.2929252,5.0,$$,Virginia
+27,1,"Sandwiches, Spaetzle and Sticky Wings",Brigit & Bernard's Garden Cafe,2017-07-07,20.8747708,-156.4529829390927,4.0,$$,Hawaii
+27,2,Flavor Adventure,Maui Fresh Streatery,2017-07-14,20.8747708,-156.4529829390927,4.5,$$,Hawaii
+27,2,Flavor Adventure,ediBOL,2017-07-14,34.0536909,-118.2427666,4.5,$$,California
+27,2,Flavor Adventure,Jessy's Tienda y Taqueria,2017-07-14,36.8462923,-76.2929252,4.0,$$,Virginia
+27,3,"Barbecue, Batter and Beer Can Chicken",Three's Bar and Grill,2017-07-21,20.7476261,-156.4549898,4.0,$$,Hawaii
+27,3,"Barbecue, Batter and Beer Can Chicken",BatterFish,2017-07-21,34.0250724,-118.4965129,,,California
+27,3,"Barbecue, Batter and Beer Can Chicken",Horse Thief BBQ,2017-07-21,34.0536909,-118.2427666,3.5,$$,California
+27,4,Ocean Coasts and Great Lakes,La Tostaderia,2017-09-15,34.0536909,-118.2427666,4.0,$$,California
+27,4,Ocean Coasts and Great Lakes,The Grilled Cheese Bistro,2017-09-15,36.8462923,-76.2929252,4.5,$$,Virginia
+27,4,Ocean Coasts and Great Lakes,Meat Southern BBQ & Carnivore Cuisine,2017-09-15,42.7337712,-84.5553805,,,Michigan
+27,5,A Passport of Flavor,La Panaderia,2017-09-22,29.4246002,-98.4951405,4.5,$$,Texas
+27,5,A Passport of Flavor,Capital City BBQ,2017-09-22,42.7337712,-84.5553805,4.0,$,Michigan
+27,5,A Passport of Flavor,Zaytoon Mediterranean,2017-09-22,42.7337712,-84.5553805,4.5,$$,Michigan
+27,6,"Old Faces, New Places",Fat Olives,2017-10-06,35.1987522,-111.6518229,4.5,$$,Arizona
+27,6,"Old Faces, New Places",Sunset Pointe,2017-10-06,30.507956,-87.89742922432941,4.5,$$,Alabama
+27,6,"Old Faces, New Places",Blackbrick,2017-10-06,25.7742658,-80.1936589,,,Florida
+27,7,From Pied to Fried,Buya Ramen,2017-10-13,27.7703796,-82.6695085,,,Florida
+27,7,From Pied to Fried,Eastside Fish Fry & Grill,2017-10-13,42.7337712,-84.5553805,4.0,$,Michigan
+27,7,From Pied to Fried,Bourrée,2017-10-13,29.9499323,-90.0701156,4.0,$$,Louisiana
+27,8,Sammies and Spice,The Roost,2017-11-10,40.1672117,-105.1019287,4.0,$$,Colorado
+27,8,Sammies and Spice,Loops,2017-11-10,39.9622601,-83.0007065,4.0,$,Ohio
+27,8,Sammies and Spice,Jitlada Restaurant,2017-11-10,34.0536909,-118.2427666,,,California
+27,9,College-Town Champs,Pierogi Mountain,2017-11-17,39.9622601,-83.0007065,4.5,$,Ohio
+27,9,College-Town Champs,Ray Ray's Hog Pit,2017-11-17,39.9622601,-83.0007065,4.5,$$,Ohio
+27,9,College-Town Champs,Aloy Thai Cuisine,2017-11-17,40.0149856,-105.2705456,4.0,$$,Colorado
+27,10,"Breakfast, Brisket and Belly",Nighthawk Breakfast Bar,2017-12-15,33.995044,-118.4668875,4.5,$$,California
+27,10,"Breakfast, Brisket and Belly",Sweet Carrot,2017-12-15,39.9622601,-83.0007065,4.0,$$,Ohio
+27,10,"Breakfast, Brisket and Belly",Bootleggers Modern America Smokehouse,2017-12-15,33.4942189,-111.9260184,4.0,$$,Arizona
+27,11,"Poutine, Pizza and Pork",Samples Restaurant,2018-01-05,40.1672117,-105.1019287,,,Colorado
+27,11,"Poutine, Pizza and Pork",Tutta's Pizza,2018-01-05,32.7762719,-96.7968559,4.0,$$,Texas
+27,11,"Poutine, Pizza and Pork",Slanted Rice Vietnamese Bistro,2018-01-05,33.4942189,-111.9260184,4.0,$$,Arizona
+28,1,Mom's Kitchen,Zoe Ma Ma,2017-12-22,40.0149856,-105.2705456,3.5,$,Colorado
+28,1,Mom's Kitchen,Ena's Caribbean Kitchen,2017-12-22,39.9622601,-83.0007065,4.0,$$,Ohio
+28,1,Mom's Kitchen,Republica Empanada,2017-12-22,33.4151117,-111.8314773,4.5,$,Arizona
+28,2,Delicious Discoveries,Momo Ghar,2018-01-19,39.9622601,-83.0007065,4.5,$,Ohio
+28,2,Delicious Discoveries,Tacos Mariachi,2018-01-19,32.7762719,-96.7968559,4.5,$,Texas
+28,2,Delicious Discoveries,Nora Restaurant and Bar,2018-01-19,32.7762719,-96.7968559,4.0,$$,Texas
+28,3,Bird and Beef,The Post Brewing Company,2018-02-02,40.1672117,-105.1019287,4.0,$$,Colorado
+28,3,Bird and Beef,One90 Smoked Meats,2018-02-02,32.7762719,-96.7968559,4.5,$$,Texas
+28,3,Bird and Beef,Tacos Chiwas,2018-02-02,33.4484367,-112.0741417,4.5,$,Arizona
+28,4,All Kinds of Comfort,Grubstak,2018-02-18,33.3527632,-111.7890373,4.5,$$,Arizona
+28,4,All Kinds of Comfort,Audrey Jane's Pizza Garage,2018-02-18,40.0149856,-105.2705456,4.5,$,Colorado
+28,4,All Kinds of Comfort,Whistle Britches,2018-02-18,32.7762719,-96.7968559,4.0,$$,Texas
+28,5,Rollin' in the Dough,Aloha Kitchen,2018-03-02,33.4151117,-111.8314773,4.5,$$,Arizona
+28,5,Rollin' in the Dough,Renee's Organic Oven,2018-03-02,32.2228765,-110.9748477,4.5,$$,Arizona
+28,5,Rollin' in the Dough,Mojo Donuts and Fried Chicken,2018-03-02,25.7742658,-80.1936589,4.5,$,Florida
+28,6,International Intrigue,CrushCraft Thai Street Eats,2018-03-09,32.7762719,-96.7968559,4.0,$,Texas
+28,6,International Intrigue,Milly's Empanada Factory,2018-03-09,25.7742658,-80.1936589,5.0,$,Florida
+28,6,International Intrigue,Zeman's,2018-03-09,32.2228765,-110.9748477,4.5,$$,Arizona
+28,7,Lights-Out Latin,Mr. & Mrs. Bun,2018-03-30,25.7742658,-80.1936589,4.5,$$,Florida
+28,7,Lights-Out Latin,Ceviche's,2018-03-30,34.2257282,-77.9447107,4.5,$$,North Carolina
+28,7,Lights-Out Latin,Cafe Tumerico,2018-03-30,32.2228765,-110.9748477,5.0,$$,Arizona
+28,8,"Pizza, Pork and Peru",The Cosmos,2018-04-06,42.7337712,-84.5553805,,,Michigan
+28,8,"Pizza, Pork and Peru",Copper Penny,2018-04-06,34.2257282,-77.9447107,4.5,$$,North Carolina
+28,8,"Pizza, Pork and Peru",Inca's Peruvian Cuisine,2018-04-06,32.2228765,-110.9748477,4.0,$$,Arizona
+28,9,Seafood and Savory,Something Fishy Seafood Restaurant,2018-04-27,34.2257282,-77.9447107,3.5,$$,North Carolina
+28,9,Seafood and Savory,The Purple Carrot,2018-04-27,42.7220755,-84.4275232,3.5,$,Michigan
+28,9,Seafood and Savory,Chef Alisah's Restaurant,2018-04-27,32.2228765,-110.9748477,4.5,$$,Arizona
+28,10,Grab and Grub,Doce Provisions,2018-05-04,25.7742658,-80.1936589,4.5,$$,Florida
+28,10,Grab and Grub,Rocco's Little Chicago,2018-05-04,32.2228765,-110.9748477,4.0,$$,Arizona
+28,10,Grab and Grub,Fork-n-Cork,2018-05-04,34.2257282,-77.9447107,,,North Carolina
+28,11,BBQ Bites and Southern Flavor,Wood Shop BBQ,2018-05-25,47.6038321,-122.3300624,4.5,$$,Washington
+28,11,BBQ Bites and Southern Flavor,Cast Iron Kitchen,2018-05-25,34.2257282,-77.9447107,4.5,$$,North Carolina
+28,11,BBQ Bites and Southern Flavor,Southern Cafe,2018-05-25,37.8044557,-122.2713563,4.0,$$,California
+28,12,"East Coast, West Coast",Calafia Cafe,2018-06-08,37.4443293,-122.1598465,3.5,$,California
+28,12,"East Coast, West Coast",Sweet n Savory Cafe,2018-06-08,34.2257282,-77.9447107,4.0,$$,North Carolina
+28,12,"East Coast, West Coast",W.E.P.A.! at Brix 581,2018-06-08,37.8044557,-122.2713563,,,California
+28,13,"Italian, Hawaiian and Colombian",Umekes Fishmarket Bar & Grill,2018-06-29,19.641941,-155.996933,4.0,$$,Hawaii
+28,13,"Italian, Hawaiian and Colombian",Pazzo,2018-06-29,37.504936,-122.2618236,4.5,$$,California
+28,13,"Italian, Hawaiian and Colombian",LOBA Restaurant,2018-06-29,25.7742658,-80.1936589,,,Florida
+28,14,Playin' Chicken,Scolari's Good Eats,2018-07-06,37.6090291,-121.899142,,,California
+28,14,Playin' Chicken,Pizzeria Credo,2018-07-06,47.6038321,-122.3300624,4.5,$$,Washington
+28,14,Playin' Chicken,Foster's Kitchen,2018-07-06,19.641941,-155.996933,4.0,$$,Hawaii
+28,15,On the Hook and In the Bun,The Red Door,2018-07-27,47.6038321,-122.3300624,3.0,$$,Washington
+28,15,On the Hook and In the Bun,Rebel Kitchen,2018-07-27,19.517728,-155.921402,4.5,$$,Hawaii
+28,15,On the Hook and In the Bun,Grand Harbor,2018-07-27,37.7790262,-122.4199061,,,California
+28,16,Fusion of Flavors,Saucy Porka,2018-08-03,41.8755616,-87.6244212,4.5,$,Illinois
+28,16,Fusion of Flavors,Sisters and Brothers Bar,2018-08-03,47.6038321,-122.3300624,4.0,$$,Washington
+28,16,Fusion of Flavors,Island Lava Java,2018-08-03,19.641941,-155.996933,4.0,$$,Hawaii
+28,17,Tasty Traditions,Piroshki on 3rd,2018-08-10,47.6038321,-122.3300624,4.5,$,Washington
+28,17,Tasty Traditions,Kanaka Kava,2018-08-10,19.641941,-155.996933,4.5,$$,Hawaii
+28,17,Tasty Traditions,Manny's Cafeteria and Delicatessen,2018-08-10,41.8755616,-87.6244212,4.0,$$,Illinois
+28,18,Far East Flavorfest,Del Seoul,2018-08-31,41.8755616,-87.6244212,4.5,$,Illinois
+28,18,Far East Flavorfest,Original Thai,2018-08-31,19.641941,-155.996933,4.0,$$,Hawaii
+28,18,Far East Flavorfest,Bok A Bok Fried Chicken & Biscuits,2018-08-31,47.6038321,-122.3300624,,,Washington
+28,19,Culinary Journey,Broke Da Mouth Grindz,2018-09-07,19.641941,-155.996933,4.5,$$,Hawaii
+28,19,Culinary Journey,MFK,2018-09-07,41.8755616,-87.6244212,4.0,$$$,Illinois
+28,19,Culinary Journey,Blue Toba,2018-09-07,42.1972487,-122.7153995,4.5,$$,Oregon
+29,1,From Pork to Pasta,Ruins,2018-09-21,47.6579425,-117.4212265,4.0,$$,Washington
+29,1,From Pork to Pasta,Bella Luna Cafe,2018-09-21,41.8755616,-87.6244212,,,Illinois
+29,1,From Pork to Pasta,Sun Wah BBQ,2018-09-21,41.8755616,-87.6244212,4.0,$$,Illinois
+29,2,"Sandwiches, Southern and South of the Boarder",Roost Fried Chicken,2018-09-28,45.6794293,-111.0440474,4.0,$$,Montana
+29,2,"Sandwiches, Southern and South of the Boarder",Nordic Smoke BBQ,2018-09-28,47.6579425,-117.4212265,5.0,$,Washington
+29,2,"Sandwiches, Southern and South of the Boarder",Agave,2018-09-28,42.1972487,-122.7153995,3.5,$$,Oregon
+29,3,"Pretzels, Pork and Paella",Storm Castle Cafe,2018-10-19,45.6794293,-111.0440474,4.5,$$,Montana
+29,3,"Pretzels, Pork and Paella",La Terraza Rum Longe,2018-10-19,34.7464809,-92.2895948,4.0,$$,Arkansas
+29,3,"Pretzels, Pork and Paella",Flyway Brewing,2018-10-19,34.769536,-92.2670941,4.0,$$,Arkansas
+29,4,From Big Burgers to Little Italy,Zoftig Eatery,2018-10-26,38.4404925,-122.7141049,4.5,$$,California
+29,4,From Big Burgers to Little Italy,Bruno's Little Italy,2018-10-26,34.7464809,-92.2895948,4.0,$$,Arkansas
+29,4,From Big Burgers to Little Italy,North Bar,2018-10-26,34.7464809,-92.2895948,4.5,$$,Arkansas
+29,5,Meaty Mashup,The Fold: Botanas & Bar,2018-11-09,34.7464809,-92.2895948,4.0,$$,Arkansas
+29,5,Meaty Mashup,Simply Vietnam Express,2018-11-09,38.4404925,-122.7141049,3.5,$$,California
+29,5,Meaty Mashup,Cochon Volant BBQ,2018-11-09,38.5110803,-122.8473388,4.0,$$,California
+29,6,"Burgers, Bacon and BBQ",The Root Cafe,2018-11-23,34.7464809,-92.2895948,4.5,$$,Arkansas
+29,6,"Burgers, Bacon and BBQ",Eight Noodle Shop,2018-11-23,38.2971367,-122.2855293,3.5,$$,California
+29,6,"Burgers, Bacon and BBQ",Smoke Shack,2018-11-23,29.4246002,-98.4951405,4.0,$$,Texas
+29,7,From Sandwiches to Stroganoff,Wrigleyville,2018-11-30,29.4246002,-98.4951405,4.5,$,Texas
+29,7,From Sandwiches to Stroganoff,Fat Tummy,2018-11-30,29.4246002,-98.4951405,,,Texas
+29,7,From Sandwiches to Stroganoff,Zazu Kitchen + Farm,2018-11-30,38.3845125,-122.8332501583744,,,California
+29,8,Regional Recipes,Dignowity Meats,2018-12-14,29.4246002,-98.4951405,,,Texas
+29,8,Regional Recipes,Ma Harper's Creole Kitchen,2018-12-14,29.4246002,-98.4951405,4.5,$$,Texas
+29,8,Regional Recipes,Taqueria Molcajetes,2018-12-14,38.4404925,-122.7141049,4.0,$$,California
+29,9,Cultural Twist,Finn's Cafe,,40.7596198,-111.8867975,,,Utah
+29,9,Cultural Twist,Red's Chinese,,29.9499323,-90.0701156,4.0,$$,Louisiana
+29,9,Cultural Twist,Curry Pizza,,40.696629,-111.9867271,5.0,$,Utah
+29,10,Handy Helpings,Hruska's Kolaches,,40.7596198,-111.8867975,4.5,$,Utah
+29,10,Handy Helpings,Proper Burger Company,,40.7596198,-111.8867975,4.0,$$,Utah
+29,10,Handy Helpings,Rreal Tacos,,33.7490987,-84.3901849,4.0,$$,Georgia
+29,11,'Round the World Roundup,Yakitori Jinbei,2019-02-08,33.883887,-84.5147454,4.0,$$,Georgia
+29,11,'Round the World Roundup,OneTaco,2019-02-08,30.2711286,-97.7436995,4.0,$,Texas
+29,11,'Round the World Roundup,Laziz Kitchen,2019-02-08,40.7596198,-111.8867975,4.5,$$,Utah
+29,12,Whole Lotta Comfort,Twisted Soul Cookhouse & Pours,2019-02-15,33.7490987,-84.3901849,4.0,$$,Georgia
+29,12,Whole Lotta Comfort,Purgatory,2019-02-15,40.7596198,-111.8867975,4.5,$$,Utah
+29,12,Whole Lotta Comfort,Valentina's,2019-02-15,30.2711286,-97.7436995,,,Texas
+29,13,Eating Up New Orleans,Piece of Meat,2019-03-01,29.9499323,-90.0701156,4.5,$$,Louisiana
+29,13,Eating Up New Orleans,Seither's Seafood,2019-03-01,29.9499323,-90.0701156,4.5,$$,Louisiana
+29,13,Eating Up New Orleans,Avery's on Tulane,2019-03-01,29.9499323,-90.0701156,4.5,$$,Louisiana
+29,14,Sandwich Showcase,Holy Roller,2019-02-22,30.2711286,-97.7436995,4.0,$$,Texas
+29,14,Sandwich Showcase,SLAB BBQ & Beer,2019-02-22,30.2711286,-97.7436995,4.5,$$,Texas
+29,14,Sandwich Showcase,Vinny's Bakery,2019-02-22,46.2306739,-119.0921006,4.5,$,Washington
+29,15,Southern to South American,Greens & Gravy,2019-03-08,33.7490987,-84.3901849,3.5,$$,Georgia
+29,15,Southern to South American,Boteco,2019-03-08,30.2711286,-97.7436995,4.5,$$,Texas
+29,15,Southern to South American,Porter's Real Barbecue,2019-03-08,46.2804298,-119.2752055,4.5,$$,Washington
+29,16,Mega Meat and Sweet Treats,Hankook Taqueria,2019-03-29,33.7490987,-84.3901849,4.0,$$,Georgia
+29,16,Mega Meat and Sweet Treats,Pieous,2019-03-29,30.2711286,-97.7436995,4.5,$$,Texas
+29,16,Mega Meat and Sweet Treats,The Folded Pizza Pie,2019-03-29,46.2804298,-119.2752055,4.0,$,Washington
+29,17,"Belly, Beef and Bratwurst",Barley's Brewhub,,46.2087066,-119.1199192,3.5,$$,Washington
+29,17,"Belly, Beef and Bratwurst",Fable Diner,,49.2608724,-123.1139529,4.0,$$,British Columbia
+29,17,"Belly, Beef and Bratwurst",Pijiu Belly,,33.7490987,-84.3901849,4.0,$$,Georgia
+29,18,Coming Together in Cali,Grana,,39.7284945,-121.8374777,4.0,$$,California
+29,18,Coming Together in Cali,Upper Crust Bakery & Cafe,,39.7284945,-121.8374777,4.0,$,California
+29,18,Coming Together in Cali,The Banshee,,39.7284945,-121.8374777,4.0,$$,California
+29,19,Burger and Breakfast,The Pie Hole,,49.2608724,-123.1139529,4.0,$$,British Columbia
+29,19,Burger and Breakfast,Sin of Cortez,,39.7284945,-121.8374777,3.5,$$,California
+29,19,Burger and Breakfast,Ethos Bakery & Cafe,,46.2804298,-119.2752055,4.0,$$,Washington
+29,20,Not Your Everyday Eats,Frost Me Sweet Bakery & Bistro,,46.2804298,-119.2752055,,,Washington
+29,20,Not Your Everyday Eats,Momona,,39.7284945,-121.8374777,3.5,$$,California
+29,20,Not Your Everyday Eats,Tuc Craft Kitchen,,49.2608724,-123.1139529,4.0,$$,British Columbia
+30,1,A World of Barbecue,Tahini Nui,2019-05-24,22.050466550000003,-159.55876775017003,,,Hawaii
+30,1,A World of Barbecue,Grand Ole BBQ,2019-05-24,32.7174209,-117.1627714,4.5,$$,California
+30,1,A World of Barbecue,Locale BBQ Post,2019-05-24,39.7459468,-75.546589,4.0,$$,Delaware
+30,2,"Sausage, Shawarma and Scaloppini",Tahini,2019-05-31,32.7174209,-117.1627714,4.5,$,California
+30,2,"Sausage, Shawarma and Scaloppini",Corduroy Pie Co.,2019-05-31,49.2608724,-123.1139529,4.5,$$,British Columbia
+30,2,"Sausage, Shawarma and Scaloppini",Luigi Vitrone's Pastabilities Trattoria,2019-05-31,39.7459468,-75.546589,4.0,$$,Delaware
